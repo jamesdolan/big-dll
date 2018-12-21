@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{D99D2B1A-8646-46A5-8364-DC526401ED2B}</ProjectGuid>
+    <RootNamespace>bigdll</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\functions0.cpp" />
+    <ClCompile Include="..\src\functions1.cpp" />
+    <ClCompile Include="..\src\functions10.cpp" />
+    <ClCompile Include="..\src\functions11.cpp" />
+    <ClCompile Include="..\src\functions12.cpp" />
+    <ClCompile Include="..\src\functions13.cpp" />
+    <ClCompile Include="..\src\functions14.cpp" />
+    <ClCompile Include="..\src\functions15.cpp" />
+    <ClCompile Include="..\src\functions16.cpp" />
+    <ClCompile Include="..\src\functions17.cpp" />
+    <ClCompile Include="..\src\functions18.cpp" />
+    <ClCompile Include="..\src\functions19.cpp" />
+    <ClCompile Include="..\src\functions2.cpp" />
+    <ClCompile Include="..\src\functions20.cpp" />
+    <ClCompile Include="..\src\functions21.cpp" />
+    <ClCompile Include="..\src\functions22.cpp" />
+    <ClCompile Include="..\src\functions23.cpp" />
+    <ClCompile Include="..\src\functions24.cpp" />
+    <ClCompile Include="..\src\functions25.cpp" />
+    <ClCompile Include="..\src\functions26.cpp" />
+    <ClCompile Include="..\src\functions27.cpp" />
+    <ClCompile Include="..\src\functions28.cpp" />
+    <ClCompile Include="..\src\functions29.cpp" />
+    <ClCompile Include="..\src\functions3.cpp" />
+    <ClCompile Include="..\src\functions30.cpp" />
+    <ClCompile Include="..\src\functions31.cpp" />
+    <ClCompile Include="..\src\functions32.cpp" />
+    <ClCompile Include="..\src\functions33.cpp" />
+    <ClCompile Include="..\src\functions34.cpp" />
+    <ClCompile Include="..\src\functions35.cpp" />
+    <ClCompile Include="..\src\functions36.cpp" />
+    <ClCompile Include="..\src\functions37.cpp" />
+    <ClCompile Include="..\src\functions38.cpp" />
+    <ClCompile Include="..\src\functions39.cpp" />
+    <ClCompile Include="..\src\functions4.cpp" />
+    <ClCompile Include="..\src\functions40.cpp" />
+    <ClCompile Include="..\src\functions41.cpp" />
+    <ClCompile Include="..\src\functions42.cpp" />
+    <ClCompile Include="..\src\functions43.cpp" />
+    <ClCompile Include="..\src\functions44.cpp" />
+    <ClCompile Include="..\src\functions45.cpp" />
+    <ClCompile Include="..\src\functions46.cpp" />
+    <ClCompile Include="..\src\functions47.cpp" />
+    <ClCompile Include="..\src\functions48.cpp" />
+    <ClCompile Include="..\src\functions49.cpp" />
+    <ClCompile Include="..\src\functions5.cpp" />
+    <ClCompile Include="..\src\functions50.cpp" />
+    <ClCompile Include="..\src\functions51.cpp" />
+    <ClCompile Include="..\src\functions52.cpp" />
+    <ClCompile Include="..\src\functions53.cpp" />
+    <ClCompile Include="..\src\functions54.cpp" />
+    <ClCompile Include="..\src\functions55.cpp" />
+    <ClCompile Include="..\src\functions56.cpp" />
+    <ClCompile Include="..\src\functions57.cpp" />
+    <ClCompile Include="..\src\functions58.cpp" />
+    <ClCompile Include="..\src\functions59.cpp" />
+    <ClCompile Include="..\src\functions6.cpp" />
+    <ClCompile Include="..\src\functions60.cpp" />
+    <ClCompile Include="..\src\functions61.cpp" />
+    <ClCompile Include="..\src\functions62.cpp" />
+    <ClCompile Include="..\src\functions63.cpp" />
+    <ClCompile Include="..\src\functions64.cpp" />
+    <ClCompile Include="..\src\functions65.cpp" />
+    <ClCompile Include="..\src\functions66.cpp" />
+    <ClCompile Include="..\src\functions67.cpp" />
+    <ClCompile Include="..\src\functions68.cpp" />
+    <ClCompile Include="..\src\functions69.cpp" />
+    <ClCompile Include="..\src\functions7.cpp" />
+    <ClCompile Include="..\src\functions70.cpp" />
+    <ClCompile Include="..\src\functions71.cpp" />
+    <ClCompile Include="..\src\functions72.cpp" />
+    <ClCompile Include="..\src\functions73.cpp" />
+    <ClCompile Include="..\src\functions74.cpp" />
+    <ClCompile Include="..\src\functions75.cpp" />
+    <ClCompile Include="..\src\functions76.cpp" />
+    <ClCompile Include="..\src\functions77.cpp" />
+    <ClCompile Include="..\src\functions78.cpp" />
+    <ClCompile Include="..\src\functions79.cpp" />
+    <ClCompile Include="..\src\functions8.cpp" />
+    <ClCompile Include="..\src\functions80.cpp" />
+    <ClCompile Include="..\src\functions81.cpp" />
+    <ClCompile Include="..\src\functions82.cpp" />
+    <ClCompile Include="..\src\functions83.cpp" />
+    <ClCompile Include="..\src\functions84.cpp" />
+    <ClCompile Include="..\src\functions85.cpp" />
+    <ClCompile Include="..\src\functions86.cpp" />
+    <ClCompile Include="..\src\functions87.cpp" />
+    <ClCompile Include="..\src\functions88.cpp" />
+    <ClCompile Include="..\src\functions89.cpp" />
+    <ClCompile Include="..\src\functions9.cpp" />
+    <ClCompile Include="..\src\functions90.cpp" />
+    <ClCompile Include="..\src\functions91.cpp" />
+    <ClCompile Include="..\src\functions92.cpp" />
+    <ClCompile Include="..\src\functions93.cpp" />
+    <ClCompile Include="..\src\functions94.cpp" />
+    <ClCompile Include="..\src\functions95.cpp" />
+    <ClCompile Include="..\src\functions96.cpp" />
+    <ClCompile Include="..\src\functions97.cpp" />
+    <ClCompile Include="..\src\functions98.cpp" />
+    <ClCompile Include="..\src\functions99.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

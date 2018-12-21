@@ -1,1000 +1,1000 @@
-int function80000(int i) { return i + 80000; }
-int function80001(int i) { return i + 80001; }
-int function80002(int i) { return i + 80002; }
-int function80003(int i) { return i + 80003; }
-int function80004(int i) { return i + 80004; }
-int function80005(int i) { return i + 80005; }
-int function80006(int i) { return i + 80006; }
-int function80007(int i) { return i + 80007; }
-int function80008(int i) { return i + 80008; }
-int function80009(int i) { return i + 80009; }
-int function80010(int i) { return i + 80010; }
-int function80011(int i) { return i + 80011; }
-int function80012(int i) { return i + 80012; }
-int function80013(int i) { return i + 80013; }
-int function80014(int i) { return i + 80014; }
-int function80015(int i) { return i + 80015; }
-int function80016(int i) { return i + 80016; }
-int function80017(int i) { return i + 80017; }
-int function80018(int i) { return i + 80018; }
-int function80019(int i) { return i + 80019; }
-int function80020(int i) { return i + 80020; }
-int function80021(int i) { return i + 80021; }
-int function80022(int i) { return i + 80022; }
-int function80023(int i) { return i + 80023; }
-int function80024(int i) { return i + 80024; }
-int function80025(int i) { return i + 80025; }
-int function80026(int i) { return i + 80026; }
-int function80027(int i) { return i + 80027; }
-int function80028(int i) { return i + 80028; }
-int function80029(int i) { return i + 80029; }
-int function80030(int i) { return i + 80030; }
-int function80031(int i) { return i + 80031; }
-int function80032(int i) { return i + 80032; }
-int function80033(int i) { return i + 80033; }
-int function80034(int i) { return i + 80034; }
-int function80035(int i) { return i + 80035; }
-int function80036(int i) { return i + 80036; }
-int function80037(int i) { return i + 80037; }
-int function80038(int i) { return i + 80038; }
-int function80039(int i) { return i + 80039; }
-int function80040(int i) { return i + 80040; }
-int function80041(int i) { return i + 80041; }
-int function80042(int i) { return i + 80042; }
-int function80043(int i) { return i + 80043; }
-int function80044(int i) { return i + 80044; }
-int function80045(int i) { return i + 80045; }
-int function80046(int i) { return i + 80046; }
-int function80047(int i) { return i + 80047; }
-int function80048(int i) { return i + 80048; }
-int function80049(int i) { return i + 80049; }
-int function80050(int i) { return i + 80050; }
-int function80051(int i) { return i + 80051; }
-int function80052(int i) { return i + 80052; }
-int function80053(int i) { return i + 80053; }
-int function80054(int i) { return i + 80054; }
-int function80055(int i) { return i + 80055; }
-int function80056(int i) { return i + 80056; }
-int function80057(int i) { return i + 80057; }
-int function80058(int i) { return i + 80058; }
-int function80059(int i) { return i + 80059; }
-int function80060(int i) { return i + 80060; }
-int function80061(int i) { return i + 80061; }
-int function80062(int i) { return i + 80062; }
-int function80063(int i) { return i + 80063; }
-int function80064(int i) { return i + 80064; }
-int function80065(int i) { return i + 80065; }
-int function80066(int i) { return i + 80066; }
-int function80067(int i) { return i + 80067; }
-int function80068(int i) { return i + 80068; }
-int function80069(int i) { return i + 80069; }
-int function80070(int i) { return i + 80070; }
-int function80071(int i) { return i + 80071; }
-int function80072(int i) { return i + 80072; }
-int function80073(int i) { return i + 80073; }
-int function80074(int i) { return i + 80074; }
-int function80075(int i) { return i + 80075; }
-int function80076(int i) { return i + 80076; }
-int function80077(int i) { return i + 80077; }
-int function80078(int i) { return i + 80078; }
-int function80079(int i) { return i + 80079; }
-int function80080(int i) { return i + 80080; }
-int function80081(int i) { return i + 80081; }
-int function80082(int i) { return i + 80082; }
-int function80083(int i) { return i + 80083; }
-int function80084(int i) { return i + 80084; }
-int function80085(int i) { return i + 80085; }
-int function80086(int i) { return i + 80086; }
-int function80087(int i) { return i + 80087; }
-int function80088(int i) { return i + 80088; }
-int function80089(int i) { return i + 80089; }
-int function80090(int i) { return i + 80090; }
-int function80091(int i) { return i + 80091; }
-int function80092(int i) { return i + 80092; }
-int function80093(int i) { return i + 80093; }
-int function80094(int i) { return i + 80094; }
-int function80095(int i) { return i + 80095; }
-int function80096(int i) { return i + 80096; }
-int function80097(int i) { return i + 80097; }
-int function80098(int i) { return i + 80098; }
-int function80099(int i) { return i + 80099; }
-int function80100(int i) { return i + 80100; }
-int function80101(int i) { return i + 80101; }
-int function80102(int i) { return i + 80102; }
-int function80103(int i) { return i + 80103; }
-int function80104(int i) { return i + 80104; }
-int function80105(int i) { return i + 80105; }
-int function80106(int i) { return i + 80106; }
-int function80107(int i) { return i + 80107; }
-int function80108(int i) { return i + 80108; }
-int function80109(int i) { return i + 80109; }
-int function80110(int i) { return i + 80110; }
-int function80111(int i) { return i + 80111; }
-int function80112(int i) { return i + 80112; }
-int function80113(int i) { return i + 80113; }
-int function80114(int i) { return i + 80114; }
-int function80115(int i) { return i + 80115; }
-int function80116(int i) { return i + 80116; }
-int function80117(int i) { return i + 80117; }
-int function80118(int i) { return i + 80118; }
-int function80119(int i) { return i + 80119; }
-int function80120(int i) { return i + 80120; }
-int function80121(int i) { return i + 80121; }
-int function80122(int i) { return i + 80122; }
-int function80123(int i) { return i + 80123; }
-int function80124(int i) { return i + 80124; }
-int function80125(int i) { return i + 80125; }
-int function80126(int i) { return i + 80126; }
-int function80127(int i) { return i + 80127; }
-int function80128(int i) { return i + 80128; }
-int function80129(int i) { return i + 80129; }
-int function80130(int i) { return i + 80130; }
-int function80131(int i) { return i + 80131; }
-int function80132(int i) { return i + 80132; }
-int function80133(int i) { return i + 80133; }
-int function80134(int i) { return i + 80134; }
-int function80135(int i) { return i + 80135; }
-int function80136(int i) { return i + 80136; }
-int function80137(int i) { return i + 80137; }
-int function80138(int i) { return i + 80138; }
-int function80139(int i) { return i + 80139; }
-int function80140(int i) { return i + 80140; }
-int function80141(int i) { return i + 80141; }
-int function80142(int i) { return i + 80142; }
-int function80143(int i) { return i + 80143; }
-int function80144(int i) { return i + 80144; }
-int function80145(int i) { return i + 80145; }
-int function80146(int i) { return i + 80146; }
-int function80147(int i) { return i + 80147; }
-int function80148(int i) { return i + 80148; }
-int function80149(int i) { return i + 80149; }
-int function80150(int i) { return i + 80150; }
-int function80151(int i) { return i + 80151; }
-int function80152(int i) { return i + 80152; }
-int function80153(int i) { return i + 80153; }
-int function80154(int i) { return i + 80154; }
-int function80155(int i) { return i + 80155; }
-int function80156(int i) { return i + 80156; }
-int function80157(int i) { return i + 80157; }
-int function80158(int i) { return i + 80158; }
-int function80159(int i) { return i + 80159; }
-int function80160(int i) { return i + 80160; }
-int function80161(int i) { return i + 80161; }
-int function80162(int i) { return i + 80162; }
-int function80163(int i) { return i + 80163; }
-int function80164(int i) { return i + 80164; }
-int function80165(int i) { return i + 80165; }
-int function80166(int i) { return i + 80166; }
-int function80167(int i) { return i + 80167; }
-int function80168(int i) { return i + 80168; }
-int function80169(int i) { return i + 80169; }
-int function80170(int i) { return i + 80170; }
-int function80171(int i) { return i + 80171; }
-int function80172(int i) { return i + 80172; }
-int function80173(int i) { return i + 80173; }
-int function80174(int i) { return i + 80174; }
-int function80175(int i) { return i + 80175; }
-int function80176(int i) { return i + 80176; }
-int function80177(int i) { return i + 80177; }
-int function80178(int i) { return i + 80178; }
-int function80179(int i) { return i + 80179; }
-int function80180(int i) { return i + 80180; }
-int function80181(int i) { return i + 80181; }
-int function80182(int i) { return i + 80182; }
-int function80183(int i) { return i + 80183; }
-int function80184(int i) { return i + 80184; }
-int function80185(int i) { return i + 80185; }
-int function80186(int i) { return i + 80186; }
-int function80187(int i) { return i + 80187; }
-int function80188(int i) { return i + 80188; }
-int function80189(int i) { return i + 80189; }
-int function80190(int i) { return i + 80190; }
-int function80191(int i) { return i + 80191; }
-int function80192(int i) { return i + 80192; }
-int function80193(int i) { return i + 80193; }
-int function80194(int i) { return i + 80194; }
-int function80195(int i) { return i + 80195; }
-int function80196(int i) { return i + 80196; }
-int function80197(int i) { return i + 80197; }
-int function80198(int i) { return i + 80198; }
-int function80199(int i) { return i + 80199; }
-int function80200(int i) { return i + 80200; }
-int function80201(int i) { return i + 80201; }
-int function80202(int i) { return i + 80202; }
-int function80203(int i) { return i + 80203; }
-int function80204(int i) { return i + 80204; }
-int function80205(int i) { return i + 80205; }
-int function80206(int i) { return i + 80206; }
-int function80207(int i) { return i + 80207; }
-int function80208(int i) { return i + 80208; }
-int function80209(int i) { return i + 80209; }
-int function80210(int i) { return i + 80210; }
-int function80211(int i) { return i + 80211; }
-int function80212(int i) { return i + 80212; }
-int function80213(int i) { return i + 80213; }
-int function80214(int i) { return i + 80214; }
-int function80215(int i) { return i + 80215; }
-int function80216(int i) { return i + 80216; }
-int function80217(int i) { return i + 80217; }
-int function80218(int i) { return i + 80218; }
-int function80219(int i) { return i + 80219; }
-int function80220(int i) { return i + 80220; }
-int function80221(int i) { return i + 80221; }
-int function80222(int i) { return i + 80222; }
-int function80223(int i) { return i + 80223; }
-int function80224(int i) { return i + 80224; }
-int function80225(int i) { return i + 80225; }
-int function80226(int i) { return i + 80226; }
-int function80227(int i) { return i + 80227; }
-int function80228(int i) { return i + 80228; }
-int function80229(int i) { return i + 80229; }
-int function80230(int i) { return i + 80230; }
-int function80231(int i) { return i + 80231; }
-int function80232(int i) { return i + 80232; }
-int function80233(int i) { return i + 80233; }
-int function80234(int i) { return i + 80234; }
-int function80235(int i) { return i + 80235; }
-int function80236(int i) { return i + 80236; }
-int function80237(int i) { return i + 80237; }
-int function80238(int i) { return i + 80238; }
-int function80239(int i) { return i + 80239; }
-int function80240(int i) { return i + 80240; }
-int function80241(int i) { return i + 80241; }
-int function80242(int i) { return i + 80242; }
-int function80243(int i) { return i + 80243; }
-int function80244(int i) { return i + 80244; }
-int function80245(int i) { return i + 80245; }
-int function80246(int i) { return i + 80246; }
-int function80247(int i) { return i + 80247; }
-int function80248(int i) { return i + 80248; }
-int function80249(int i) { return i + 80249; }
-int function80250(int i) { return i + 80250; }
-int function80251(int i) { return i + 80251; }
-int function80252(int i) { return i + 80252; }
-int function80253(int i) { return i + 80253; }
-int function80254(int i) { return i + 80254; }
-int function80255(int i) { return i + 80255; }
-int function80256(int i) { return i + 80256; }
-int function80257(int i) { return i + 80257; }
-int function80258(int i) { return i + 80258; }
-int function80259(int i) { return i + 80259; }
-int function80260(int i) { return i + 80260; }
-int function80261(int i) { return i + 80261; }
-int function80262(int i) { return i + 80262; }
-int function80263(int i) { return i + 80263; }
-int function80264(int i) { return i + 80264; }
-int function80265(int i) { return i + 80265; }
-int function80266(int i) { return i + 80266; }
-int function80267(int i) { return i + 80267; }
-int function80268(int i) { return i + 80268; }
-int function80269(int i) { return i + 80269; }
-int function80270(int i) { return i + 80270; }
-int function80271(int i) { return i + 80271; }
-int function80272(int i) { return i + 80272; }
-int function80273(int i) { return i + 80273; }
-int function80274(int i) { return i + 80274; }
-int function80275(int i) { return i + 80275; }
-int function80276(int i) { return i + 80276; }
-int function80277(int i) { return i + 80277; }
-int function80278(int i) { return i + 80278; }
-int function80279(int i) { return i + 80279; }
-int function80280(int i) { return i + 80280; }
-int function80281(int i) { return i + 80281; }
-int function80282(int i) { return i + 80282; }
-int function80283(int i) { return i + 80283; }
-int function80284(int i) { return i + 80284; }
-int function80285(int i) { return i + 80285; }
-int function80286(int i) { return i + 80286; }
-int function80287(int i) { return i + 80287; }
-int function80288(int i) { return i + 80288; }
-int function80289(int i) { return i + 80289; }
-int function80290(int i) { return i + 80290; }
-int function80291(int i) { return i + 80291; }
-int function80292(int i) { return i + 80292; }
-int function80293(int i) { return i + 80293; }
-int function80294(int i) { return i + 80294; }
-int function80295(int i) { return i + 80295; }
-int function80296(int i) { return i + 80296; }
-int function80297(int i) { return i + 80297; }
-int function80298(int i) { return i + 80298; }
-int function80299(int i) { return i + 80299; }
-int function80300(int i) { return i + 80300; }
-int function80301(int i) { return i + 80301; }
-int function80302(int i) { return i + 80302; }
-int function80303(int i) { return i + 80303; }
-int function80304(int i) { return i + 80304; }
-int function80305(int i) { return i + 80305; }
-int function80306(int i) { return i + 80306; }
-int function80307(int i) { return i + 80307; }
-int function80308(int i) { return i + 80308; }
-int function80309(int i) { return i + 80309; }
-int function80310(int i) { return i + 80310; }
-int function80311(int i) { return i + 80311; }
-int function80312(int i) { return i + 80312; }
-int function80313(int i) { return i + 80313; }
-int function80314(int i) { return i + 80314; }
-int function80315(int i) { return i + 80315; }
-int function80316(int i) { return i + 80316; }
-int function80317(int i) { return i + 80317; }
-int function80318(int i) { return i + 80318; }
-int function80319(int i) { return i + 80319; }
-int function80320(int i) { return i + 80320; }
-int function80321(int i) { return i + 80321; }
-int function80322(int i) { return i + 80322; }
-int function80323(int i) { return i + 80323; }
-int function80324(int i) { return i + 80324; }
-int function80325(int i) { return i + 80325; }
-int function80326(int i) { return i + 80326; }
-int function80327(int i) { return i + 80327; }
-int function80328(int i) { return i + 80328; }
-int function80329(int i) { return i + 80329; }
-int function80330(int i) { return i + 80330; }
-int function80331(int i) { return i + 80331; }
-int function80332(int i) { return i + 80332; }
-int function80333(int i) { return i + 80333; }
-int function80334(int i) { return i + 80334; }
-int function80335(int i) { return i + 80335; }
-int function80336(int i) { return i + 80336; }
-int function80337(int i) { return i + 80337; }
-int function80338(int i) { return i + 80338; }
-int function80339(int i) { return i + 80339; }
-int function80340(int i) { return i + 80340; }
-int function80341(int i) { return i + 80341; }
-int function80342(int i) { return i + 80342; }
-int function80343(int i) { return i + 80343; }
-int function80344(int i) { return i + 80344; }
-int function80345(int i) { return i + 80345; }
-int function80346(int i) { return i + 80346; }
-int function80347(int i) { return i + 80347; }
-int function80348(int i) { return i + 80348; }
-int function80349(int i) { return i + 80349; }
-int function80350(int i) { return i + 80350; }
-int function80351(int i) { return i + 80351; }
-int function80352(int i) { return i + 80352; }
-int function80353(int i) { return i + 80353; }
-int function80354(int i) { return i + 80354; }
-int function80355(int i) { return i + 80355; }
-int function80356(int i) { return i + 80356; }
-int function80357(int i) { return i + 80357; }
-int function80358(int i) { return i + 80358; }
-int function80359(int i) { return i + 80359; }
-int function80360(int i) { return i + 80360; }
-int function80361(int i) { return i + 80361; }
-int function80362(int i) { return i + 80362; }
-int function80363(int i) { return i + 80363; }
-int function80364(int i) { return i + 80364; }
-int function80365(int i) { return i + 80365; }
-int function80366(int i) { return i + 80366; }
-int function80367(int i) { return i + 80367; }
-int function80368(int i) { return i + 80368; }
-int function80369(int i) { return i + 80369; }
-int function80370(int i) { return i + 80370; }
-int function80371(int i) { return i + 80371; }
-int function80372(int i) { return i + 80372; }
-int function80373(int i) { return i + 80373; }
-int function80374(int i) { return i + 80374; }
-int function80375(int i) { return i + 80375; }
-int function80376(int i) { return i + 80376; }
-int function80377(int i) { return i + 80377; }
-int function80378(int i) { return i + 80378; }
-int function80379(int i) { return i + 80379; }
-int function80380(int i) { return i + 80380; }
-int function80381(int i) { return i + 80381; }
-int function80382(int i) { return i + 80382; }
-int function80383(int i) { return i + 80383; }
-int function80384(int i) { return i + 80384; }
-int function80385(int i) { return i + 80385; }
-int function80386(int i) { return i + 80386; }
-int function80387(int i) { return i + 80387; }
-int function80388(int i) { return i + 80388; }
-int function80389(int i) { return i + 80389; }
-int function80390(int i) { return i + 80390; }
-int function80391(int i) { return i + 80391; }
-int function80392(int i) { return i + 80392; }
-int function80393(int i) { return i + 80393; }
-int function80394(int i) { return i + 80394; }
-int function80395(int i) { return i + 80395; }
-int function80396(int i) { return i + 80396; }
-int function80397(int i) { return i + 80397; }
-int function80398(int i) { return i + 80398; }
-int function80399(int i) { return i + 80399; }
-int function80400(int i) { return i + 80400; }
-int function80401(int i) { return i + 80401; }
-int function80402(int i) { return i + 80402; }
-int function80403(int i) { return i + 80403; }
-int function80404(int i) { return i + 80404; }
-int function80405(int i) { return i + 80405; }
-int function80406(int i) { return i + 80406; }
-int function80407(int i) { return i + 80407; }
-int function80408(int i) { return i + 80408; }
-int function80409(int i) { return i + 80409; }
-int function80410(int i) { return i + 80410; }
-int function80411(int i) { return i + 80411; }
-int function80412(int i) { return i + 80412; }
-int function80413(int i) { return i + 80413; }
-int function80414(int i) { return i + 80414; }
-int function80415(int i) { return i + 80415; }
-int function80416(int i) { return i + 80416; }
-int function80417(int i) { return i + 80417; }
-int function80418(int i) { return i + 80418; }
-int function80419(int i) { return i + 80419; }
-int function80420(int i) { return i + 80420; }
-int function80421(int i) { return i + 80421; }
-int function80422(int i) { return i + 80422; }
-int function80423(int i) { return i + 80423; }
-int function80424(int i) { return i + 80424; }
-int function80425(int i) { return i + 80425; }
-int function80426(int i) { return i + 80426; }
-int function80427(int i) { return i + 80427; }
-int function80428(int i) { return i + 80428; }
-int function80429(int i) { return i + 80429; }
-int function80430(int i) { return i + 80430; }
-int function80431(int i) { return i + 80431; }
-int function80432(int i) { return i + 80432; }
-int function80433(int i) { return i + 80433; }
-int function80434(int i) { return i + 80434; }
-int function80435(int i) { return i + 80435; }
-int function80436(int i) { return i + 80436; }
-int function80437(int i) { return i + 80437; }
-int function80438(int i) { return i + 80438; }
-int function80439(int i) { return i + 80439; }
-int function80440(int i) { return i + 80440; }
-int function80441(int i) { return i + 80441; }
-int function80442(int i) { return i + 80442; }
-int function80443(int i) { return i + 80443; }
-int function80444(int i) { return i + 80444; }
-int function80445(int i) { return i + 80445; }
-int function80446(int i) { return i + 80446; }
-int function80447(int i) { return i + 80447; }
-int function80448(int i) { return i + 80448; }
-int function80449(int i) { return i + 80449; }
-int function80450(int i) { return i + 80450; }
-int function80451(int i) { return i + 80451; }
-int function80452(int i) { return i + 80452; }
-int function80453(int i) { return i + 80453; }
-int function80454(int i) { return i + 80454; }
-int function80455(int i) { return i + 80455; }
-int function80456(int i) { return i + 80456; }
-int function80457(int i) { return i + 80457; }
-int function80458(int i) { return i + 80458; }
-int function80459(int i) { return i + 80459; }
-int function80460(int i) { return i + 80460; }
-int function80461(int i) { return i + 80461; }
-int function80462(int i) { return i + 80462; }
-int function80463(int i) { return i + 80463; }
-int function80464(int i) { return i + 80464; }
-int function80465(int i) { return i + 80465; }
-int function80466(int i) { return i + 80466; }
-int function80467(int i) { return i + 80467; }
-int function80468(int i) { return i + 80468; }
-int function80469(int i) { return i + 80469; }
-int function80470(int i) { return i + 80470; }
-int function80471(int i) { return i + 80471; }
-int function80472(int i) { return i + 80472; }
-int function80473(int i) { return i + 80473; }
-int function80474(int i) { return i + 80474; }
-int function80475(int i) { return i + 80475; }
-int function80476(int i) { return i + 80476; }
-int function80477(int i) { return i + 80477; }
-int function80478(int i) { return i + 80478; }
-int function80479(int i) { return i + 80479; }
-int function80480(int i) { return i + 80480; }
-int function80481(int i) { return i + 80481; }
-int function80482(int i) { return i + 80482; }
-int function80483(int i) { return i + 80483; }
-int function80484(int i) { return i + 80484; }
-int function80485(int i) { return i + 80485; }
-int function80486(int i) { return i + 80486; }
-int function80487(int i) { return i + 80487; }
-int function80488(int i) { return i + 80488; }
-int function80489(int i) { return i + 80489; }
-int function80490(int i) { return i + 80490; }
-int function80491(int i) { return i + 80491; }
-int function80492(int i) { return i + 80492; }
-int function80493(int i) { return i + 80493; }
-int function80494(int i) { return i + 80494; }
-int function80495(int i) { return i + 80495; }
-int function80496(int i) { return i + 80496; }
-int function80497(int i) { return i + 80497; }
-int function80498(int i) { return i + 80498; }
-int function80499(int i) { return i + 80499; }
-int function80500(int i) { return i + 80500; }
-int function80501(int i) { return i + 80501; }
-int function80502(int i) { return i + 80502; }
-int function80503(int i) { return i + 80503; }
-int function80504(int i) { return i + 80504; }
-int function80505(int i) { return i + 80505; }
-int function80506(int i) { return i + 80506; }
-int function80507(int i) { return i + 80507; }
-int function80508(int i) { return i + 80508; }
-int function80509(int i) { return i + 80509; }
-int function80510(int i) { return i + 80510; }
-int function80511(int i) { return i + 80511; }
-int function80512(int i) { return i + 80512; }
-int function80513(int i) { return i + 80513; }
-int function80514(int i) { return i + 80514; }
-int function80515(int i) { return i + 80515; }
-int function80516(int i) { return i + 80516; }
-int function80517(int i) { return i + 80517; }
-int function80518(int i) { return i + 80518; }
-int function80519(int i) { return i + 80519; }
-int function80520(int i) { return i + 80520; }
-int function80521(int i) { return i + 80521; }
-int function80522(int i) { return i + 80522; }
-int function80523(int i) { return i + 80523; }
-int function80524(int i) { return i + 80524; }
-int function80525(int i) { return i + 80525; }
-int function80526(int i) { return i + 80526; }
-int function80527(int i) { return i + 80527; }
-int function80528(int i) { return i + 80528; }
-int function80529(int i) { return i + 80529; }
-int function80530(int i) { return i + 80530; }
-int function80531(int i) { return i + 80531; }
-int function80532(int i) { return i + 80532; }
-int function80533(int i) { return i + 80533; }
-int function80534(int i) { return i + 80534; }
-int function80535(int i) { return i + 80535; }
-int function80536(int i) { return i + 80536; }
-int function80537(int i) { return i + 80537; }
-int function80538(int i) { return i + 80538; }
-int function80539(int i) { return i + 80539; }
-int function80540(int i) { return i + 80540; }
-int function80541(int i) { return i + 80541; }
-int function80542(int i) { return i + 80542; }
-int function80543(int i) { return i + 80543; }
-int function80544(int i) { return i + 80544; }
-int function80545(int i) { return i + 80545; }
-int function80546(int i) { return i + 80546; }
-int function80547(int i) { return i + 80547; }
-int function80548(int i) { return i + 80548; }
-int function80549(int i) { return i + 80549; }
-int function80550(int i) { return i + 80550; }
-int function80551(int i) { return i + 80551; }
-int function80552(int i) { return i + 80552; }
-int function80553(int i) { return i + 80553; }
-int function80554(int i) { return i + 80554; }
-int function80555(int i) { return i + 80555; }
-int function80556(int i) { return i + 80556; }
-int function80557(int i) { return i + 80557; }
-int function80558(int i) { return i + 80558; }
-int function80559(int i) { return i + 80559; }
-int function80560(int i) { return i + 80560; }
-int function80561(int i) { return i + 80561; }
-int function80562(int i) { return i + 80562; }
-int function80563(int i) { return i + 80563; }
-int function80564(int i) { return i + 80564; }
-int function80565(int i) { return i + 80565; }
-int function80566(int i) { return i + 80566; }
-int function80567(int i) { return i + 80567; }
-int function80568(int i) { return i + 80568; }
-int function80569(int i) { return i + 80569; }
-int function80570(int i) { return i + 80570; }
-int function80571(int i) { return i + 80571; }
-int function80572(int i) { return i + 80572; }
-int function80573(int i) { return i + 80573; }
-int function80574(int i) { return i + 80574; }
-int function80575(int i) { return i + 80575; }
-int function80576(int i) { return i + 80576; }
-int function80577(int i) { return i + 80577; }
-int function80578(int i) { return i + 80578; }
-int function80579(int i) { return i + 80579; }
-int function80580(int i) { return i + 80580; }
-int function80581(int i) { return i + 80581; }
-int function80582(int i) { return i + 80582; }
-int function80583(int i) { return i + 80583; }
-int function80584(int i) { return i + 80584; }
-int function80585(int i) { return i + 80585; }
-int function80586(int i) { return i + 80586; }
-int function80587(int i) { return i + 80587; }
-int function80588(int i) { return i + 80588; }
-int function80589(int i) { return i + 80589; }
-int function80590(int i) { return i + 80590; }
-int function80591(int i) { return i + 80591; }
-int function80592(int i) { return i + 80592; }
-int function80593(int i) { return i + 80593; }
-int function80594(int i) { return i + 80594; }
-int function80595(int i) { return i + 80595; }
-int function80596(int i) { return i + 80596; }
-int function80597(int i) { return i + 80597; }
-int function80598(int i) { return i + 80598; }
-int function80599(int i) { return i + 80599; }
-int function80600(int i) { return i + 80600; }
-int function80601(int i) { return i + 80601; }
-int function80602(int i) { return i + 80602; }
-int function80603(int i) { return i + 80603; }
-int function80604(int i) { return i + 80604; }
-int function80605(int i) { return i + 80605; }
-int function80606(int i) { return i + 80606; }
-int function80607(int i) { return i + 80607; }
-int function80608(int i) { return i + 80608; }
-int function80609(int i) { return i + 80609; }
-int function80610(int i) { return i + 80610; }
-int function80611(int i) { return i + 80611; }
-int function80612(int i) { return i + 80612; }
-int function80613(int i) { return i + 80613; }
-int function80614(int i) { return i + 80614; }
-int function80615(int i) { return i + 80615; }
-int function80616(int i) { return i + 80616; }
-int function80617(int i) { return i + 80617; }
-int function80618(int i) { return i + 80618; }
-int function80619(int i) { return i + 80619; }
-int function80620(int i) { return i + 80620; }
-int function80621(int i) { return i + 80621; }
-int function80622(int i) { return i + 80622; }
-int function80623(int i) { return i + 80623; }
-int function80624(int i) { return i + 80624; }
-int function80625(int i) { return i + 80625; }
-int function80626(int i) { return i + 80626; }
-int function80627(int i) { return i + 80627; }
-int function80628(int i) { return i + 80628; }
-int function80629(int i) { return i + 80629; }
-int function80630(int i) { return i + 80630; }
-int function80631(int i) { return i + 80631; }
-int function80632(int i) { return i + 80632; }
-int function80633(int i) { return i + 80633; }
-int function80634(int i) { return i + 80634; }
-int function80635(int i) { return i + 80635; }
-int function80636(int i) { return i + 80636; }
-int function80637(int i) { return i + 80637; }
-int function80638(int i) { return i + 80638; }
-int function80639(int i) { return i + 80639; }
-int function80640(int i) { return i + 80640; }
-int function80641(int i) { return i + 80641; }
-int function80642(int i) { return i + 80642; }
-int function80643(int i) { return i + 80643; }
-int function80644(int i) { return i + 80644; }
-int function80645(int i) { return i + 80645; }
-int function80646(int i) { return i + 80646; }
-int function80647(int i) { return i + 80647; }
-int function80648(int i) { return i + 80648; }
-int function80649(int i) { return i + 80649; }
-int function80650(int i) { return i + 80650; }
-int function80651(int i) { return i + 80651; }
-int function80652(int i) { return i + 80652; }
-int function80653(int i) { return i + 80653; }
-int function80654(int i) { return i + 80654; }
-int function80655(int i) { return i + 80655; }
-int function80656(int i) { return i + 80656; }
-int function80657(int i) { return i + 80657; }
-int function80658(int i) { return i + 80658; }
-int function80659(int i) { return i + 80659; }
-int function80660(int i) { return i + 80660; }
-int function80661(int i) { return i + 80661; }
-int function80662(int i) { return i + 80662; }
-int function80663(int i) { return i + 80663; }
-int function80664(int i) { return i + 80664; }
-int function80665(int i) { return i + 80665; }
-int function80666(int i) { return i + 80666; }
-int function80667(int i) { return i + 80667; }
-int function80668(int i) { return i + 80668; }
-int function80669(int i) { return i + 80669; }
-int function80670(int i) { return i + 80670; }
-int function80671(int i) { return i + 80671; }
-int function80672(int i) { return i + 80672; }
-int function80673(int i) { return i + 80673; }
-int function80674(int i) { return i + 80674; }
-int function80675(int i) { return i + 80675; }
-int function80676(int i) { return i + 80676; }
-int function80677(int i) { return i + 80677; }
-int function80678(int i) { return i + 80678; }
-int function80679(int i) { return i + 80679; }
-int function80680(int i) { return i + 80680; }
-int function80681(int i) { return i + 80681; }
-int function80682(int i) { return i + 80682; }
-int function80683(int i) { return i + 80683; }
-int function80684(int i) { return i + 80684; }
-int function80685(int i) { return i + 80685; }
-int function80686(int i) { return i + 80686; }
-int function80687(int i) { return i + 80687; }
-int function80688(int i) { return i + 80688; }
-int function80689(int i) { return i + 80689; }
-int function80690(int i) { return i + 80690; }
-int function80691(int i) { return i + 80691; }
-int function80692(int i) { return i + 80692; }
-int function80693(int i) { return i + 80693; }
-int function80694(int i) { return i + 80694; }
-int function80695(int i) { return i + 80695; }
-int function80696(int i) { return i + 80696; }
-int function80697(int i) { return i + 80697; }
-int function80698(int i) { return i + 80698; }
-int function80699(int i) { return i + 80699; }
-int function80700(int i) { return i + 80700; }
-int function80701(int i) { return i + 80701; }
-int function80702(int i) { return i + 80702; }
-int function80703(int i) { return i + 80703; }
-int function80704(int i) { return i + 80704; }
-int function80705(int i) { return i + 80705; }
-int function80706(int i) { return i + 80706; }
-int function80707(int i) { return i + 80707; }
-int function80708(int i) { return i + 80708; }
-int function80709(int i) { return i + 80709; }
-int function80710(int i) { return i + 80710; }
-int function80711(int i) { return i + 80711; }
-int function80712(int i) { return i + 80712; }
-int function80713(int i) { return i + 80713; }
-int function80714(int i) { return i + 80714; }
-int function80715(int i) { return i + 80715; }
-int function80716(int i) { return i + 80716; }
-int function80717(int i) { return i + 80717; }
-int function80718(int i) { return i + 80718; }
-int function80719(int i) { return i + 80719; }
-int function80720(int i) { return i + 80720; }
-int function80721(int i) { return i + 80721; }
-int function80722(int i) { return i + 80722; }
-int function80723(int i) { return i + 80723; }
-int function80724(int i) { return i + 80724; }
-int function80725(int i) { return i + 80725; }
-int function80726(int i) { return i + 80726; }
-int function80727(int i) { return i + 80727; }
-int function80728(int i) { return i + 80728; }
-int function80729(int i) { return i + 80729; }
-int function80730(int i) { return i + 80730; }
-int function80731(int i) { return i + 80731; }
-int function80732(int i) { return i + 80732; }
-int function80733(int i) { return i + 80733; }
-int function80734(int i) { return i + 80734; }
-int function80735(int i) { return i + 80735; }
-int function80736(int i) { return i + 80736; }
-int function80737(int i) { return i + 80737; }
-int function80738(int i) { return i + 80738; }
-int function80739(int i) { return i + 80739; }
-int function80740(int i) { return i + 80740; }
-int function80741(int i) { return i + 80741; }
-int function80742(int i) { return i + 80742; }
-int function80743(int i) { return i + 80743; }
-int function80744(int i) { return i + 80744; }
-int function80745(int i) { return i + 80745; }
-int function80746(int i) { return i + 80746; }
-int function80747(int i) { return i + 80747; }
-int function80748(int i) { return i + 80748; }
-int function80749(int i) { return i + 80749; }
-int function80750(int i) { return i + 80750; }
-int function80751(int i) { return i + 80751; }
-int function80752(int i) { return i + 80752; }
-int function80753(int i) { return i + 80753; }
-int function80754(int i) { return i + 80754; }
-int function80755(int i) { return i + 80755; }
-int function80756(int i) { return i + 80756; }
-int function80757(int i) { return i + 80757; }
-int function80758(int i) { return i + 80758; }
-int function80759(int i) { return i + 80759; }
-int function80760(int i) { return i + 80760; }
-int function80761(int i) { return i + 80761; }
-int function80762(int i) { return i + 80762; }
-int function80763(int i) { return i + 80763; }
-int function80764(int i) { return i + 80764; }
-int function80765(int i) { return i + 80765; }
-int function80766(int i) { return i + 80766; }
-int function80767(int i) { return i + 80767; }
-int function80768(int i) { return i + 80768; }
-int function80769(int i) { return i + 80769; }
-int function80770(int i) { return i + 80770; }
-int function80771(int i) { return i + 80771; }
-int function80772(int i) { return i + 80772; }
-int function80773(int i) { return i + 80773; }
-int function80774(int i) { return i + 80774; }
-int function80775(int i) { return i + 80775; }
-int function80776(int i) { return i + 80776; }
-int function80777(int i) { return i + 80777; }
-int function80778(int i) { return i + 80778; }
-int function80779(int i) { return i + 80779; }
-int function80780(int i) { return i + 80780; }
-int function80781(int i) { return i + 80781; }
-int function80782(int i) { return i + 80782; }
-int function80783(int i) { return i + 80783; }
-int function80784(int i) { return i + 80784; }
-int function80785(int i) { return i + 80785; }
-int function80786(int i) { return i + 80786; }
-int function80787(int i) { return i + 80787; }
-int function80788(int i) { return i + 80788; }
-int function80789(int i) { return i + 80789; }
-int function80790(int i) { return i + 80790; }
-int function80791(int i) { return i + 80791; }
-int function80792(int i) { return i + 80792; }
-int function80793(int i) { return i + 80793; }
-int function80794(int i) { return i + 80794; }
-int function80795(int i) { return i + 80795; }
-int function80796(int i) { return i + 80796; }
-int function80797(int i) { return i + 80797; }
-int function80798(int i) { return i + 80798; }
-int function80799(int i) { return i + 80799; }
-int function80800(int i) { return i + 80800; }
-int function80801(int i) { return i + 80801; }
-int function80802(int i) { return i + 80802; }
-int function80803(int i) { return i + 80803; }
-int function80804(int i) { return i + 80804; }
-int function80805(int i) { return i + 80805; }
-int function80806(int i) { return i + 80806; }
-int function80807(int i) { return i + 80807; }
-int function80808(int i) { return i + 80808; }
-int function80809(int i) { return i + 80809; }
-int function80810(int i) { return i + 80810; }
-int function80811(int i) { return i + 80811; }
-int function80812(int i) { return i + 80812; }
-int function80813(int i) { return i + 80813; }
-int function80814(int i) { return i + 80814; }
-int function80815(int i) { return i + 80815; }
-int function80816(int i) { return i + 80816; }
-int function80817(int i) { return i + 80817; }
-int function80818(int i) { return i + 80818; }
-int function80819(int i) { return i + 80819; }
-int function80820(int i) { return i + 80820; }
-int function80821(int i) { return i + 80821; }
-int function80822(int i) { return i + 80822; }
-int function80823(int i) { return i + 80823; }
-int function80824(int i) { return i + 80824; }
-int function80825(int i) { return i + 80825; }
-int function80826(int i) { return i + 80826; }
-int function80827(int i) { return i + 80827; }
-int function80828(int i) { return i + 80828; }
-int function80829(int i) { return i + 80829; }
-int function80830(int i) { return i + 80830; }
-int function80831(int i) { return i + 80831; }
-int function80832(int i) { return i + 80832; }
-int function80833(int i) { return i + 80833; }
-int function80834(int i) { return i + 80834; }
-int function80835(int i) { return i + 80835; }
-int function80836(int i) { return i + 80836; }
-int function80837(int i) { return i + 80837; }
-int function80838(int i) { return i + 80838; }
-int function80839(int i) { return i + 80839; }
-int function80840(int i) { return i + 80840; }
-int function80841(int i) { return i + 80841; }
-int function80842(int i) { return i + 80842; }
-int function80843(int i) { return i + 80843; }
-int function80844(int i) { return i + 80844; }
-int function80845(int i) { return i + 80845; }
-int function80846(int i) { return i + 80846; }
-int function80847(int i) { return i + 80847; }
-int function80848(int i) { return i + 80848; }
-int function80849(int i) { return i + 80849; }
-int function80850(int i) { return i + 80850; }
-int function80851(int i) { return i + 80851; }
-int function80852(int i) { return i + 80852; }
-int function80853(int i) { return i + 80853; }
-int function80854(int i) { return i + 80854; }
-int function80855(int i) { return i + 80855; }
-int function80856(int i) { return i + 80856; }
-int function80857(int i) { return i + 80857; }
-int function80858(int i) { return i + 80858; }
-int function80859(int i) { return i + 80859; }
-int function80860(int i) { return i + 80860; }
-int function80861(int i) { return i + 80861; }
-int function80862(int i) { return i + 80862; }
-int function80863(int i) { return i + 80863; }
-int function80864(int i) { return i + 80864; }
-int function80865(int i) { return i + 80865; }
-int function80866(int i) { return i + 80866; }
-int function80867(int i) { return i + 80867; }
-int function80868(int i) { return i + 80868; }
-int function80869(int i) { return i + 80869; }
-int function80870(int i) { return i + 80870; }
-int function80871(int i) { return i + 80871; }
-int function80872(int i) { return i + 80872; }
-int function80873(int i) { return i + 80873; }
-int function80874(int i) { return i + 80874; }
-int function80875(int i) { return i + 80875; }
-int function80876(int i) { return i + 80876; }
-int function80877(int i) { return i + 80877; }
-int function80878(int i) { return i + 80878; }
-int function80879(int i) { return i + 80879; }
-int function80880(int i) { return i + 80880; }
-int function80881(int i) { return i + 80881; }
-int function80882(int i) { return i + 80882; }
-int function80883(int i) { return i + 80883; }
-int function80884(int i) { return i + 80884; }
-int function80885(int i) { return i + 80885; }
-int function80886(int i) { return i + 80886; }
-int function80887(int i) { return i + 80887; }
-int function80888(int i) { return i + 80888; }
-int function80889(int i) { return i + 80889; }
-int function80890(int i) { return i + 80890; }
-int function80891(int i) { return i + 80891; }
-int function80892(int i) { return i + 80892; }
-int function80893(int i) { return i + 80893; }
-int function80894(int i) { return i + 80894; }
-int function80895(int i) { return i + 80895; }
-int function80896(int i) { return i + 80896; }
-int function80897(int i) { return i + 80897; }
-int function80898(int i) { return i + 80898; }
-int function80899(int i) { return i + 80899; }
-int function80900(int i) { return i + 80900; }
-int function80901(int i) { return i + 80901; }
-int function80902(int i) { return i + 80902; }
-int function80903(int i) { return i + 80903; }
-int function80904(int i) { return i + 80904; }
-int function80905(int i) { return i + 80905; }
-int function80906(int i) { return i + 80906; }
-int function80907(int i) { return i + 80907; }
-int function80908(int i) { return i + 80908; }
-int function80909(int i) { return i + 80909; }
-int function80910(int i) { return i + 80910; }
-int function80911(int i) { return i + 80911; }
-int function80912(int i) { return i + 80912; }
-int function80913(int i) { return i + 80913; }
-int function80914(int i) { return i + 80914; }
-int function80915(int i) { return i + 80915; }
-int function80916(int i) { return i + 80916; }
-int function80917(int i) { return i + 80917; }
-int function80918(int i) { return i + 80918; }
-int function80919(int i) { return i + 80919; }
-int function80920(int i) { return i + 80920; }
-int function80921(int i) { return i + 80921; }
-int function80922(int i) { return i + 80922; }
-int function80923(int i) { return i + 80923; }
-int function80924(int i) { return i + 80924; }
-int function80925(int i) { return i + 80925; }
-int function80926(int i) { return i + 80926; }
-int function80927(int i) { return i + 80927; }
-int function80928(int i) { return i + 80928; }
-int function80929(int i) { return i + 80929; }
-int function80930(int i) { return i + 80930; }
-int function80931(int i) { return i + 80931; }
-int function80932(int i) { return i + 80932; }
-int function80933(int i) { return i + 80933; }
-int function80934(int i) { return i + 80934; }
-int function80935(int i) { return i + 80935; }
-int function80936(int i) { return i + 80936; }
-int function80937(int i) { return i + 80937; }
-int function80938(int i) { return i + 80938; }
-int function80939(int i) { return i + 80939; }
-int function80940(int i) { return i + 80940; }
-int function80941(int i) { return i + 80941; }
-int function80942(int i) { return i + 80942; }
-int function80943(int i) { return i + 80943; }
-int function80944(int i) { return i + 80944; }
-int function80945(int i) { return i + 80945; }
-int function80946(int i) { return i + 80946; }
-int function80947(int i) { return i + 80947; }
-int function80948(int i) { return i + 80948; }
-int function80949(int i) { return i + 80949; }
-int function80950(int i) { return i + 80950; }
-int function80951(int i) { return i + 80951; }
-int function80952(int i) { return i + 80952; }
-int function80953(int i) { return i + 80953; }
-int function80954(int i) { return i + 80954; }
-int function80955(int i) { return i + 80955; }
-int function80956(int i) { return i + 80956; }
-int function80957(int i) { return i + 80957; }
-int function80958(int i) { return i + 80958; }
-int function80959(int i) { return i + 80959; }
-int function80960(int i) { return i + 80960; }
-int function80961(int i) { return i + 80961; }
-int function80962(int i) { return i + 80962; }
-int function80963(int i) { return i + 80963; }
-int function80964(int i) { return i + 80964; }
-int function80965(int i) { return i + 80965; }
-int function80966(int i) { return i + 80966; }
-int function80967(int i) { return i + 80967; }
-int function80968(int i) { return i + 80968; }
-int function80969(int i) { return i + 80969; }
-int function80970(int i) { return i + 80970; }
-int function80971(int i) { return i + 80971; }
-int function80972(int i) { return i + 80972; }
-int function80973(int i) { return i + 80973; }
-int function80974(int i) { return i + 80974; }
-int function80975(int i) { return i + 80975; }
-int function80976(int i) { return i + 80976; }
-int function80977(int i) { return i + 80977; }
-int function80978(int i) { return i + 80978; }
-int function80979(int i) { return i + 80979; }
-int function80980(int i) { return i + 80980; }
-int function80981(int i) { return i + 80981; }
-int function80982(int i) { return i + 80982; }
-int function80983(int i) { return i + 80983; }
-int function80984(int i) { return i + 80984; }
-int function80985(int i) { return i + 80985; }
-int function80986(int i) { return i + 80986; }
-int function80987(int i) { return i + 80987; }
-int function80988(int i) { return i + 80988; }
-int function80989(int i) { return i + 80989; }
-int function80990(int i) { return i + 80990; }
-int function80991(int i) { return i + 80991; }
-int function80992(int i) { return i + 80992; }
-int function80993(int i) { return i + 80993; }
-int function80994(int i) { return i + 80994; }
-int function80995(int i) { return i + 80995; }
-int function80996(int i) { return i + 80996; }
-int function80997(int i) { return i + 80997; }
-int function80998(int i) { return i + 80998; }
-int function80999(int i) { return i + 80999; }
+__declspec(dllexport) int function80000(int i) { return i + 80000; }
+__declspec(dllexport) int function80001(int i) { return i + 80001; }
+__declspec(dllexport) int function80002(int i) { return i + 80002; }
+__declspec(dllexport) int function80003(int i) { return i + 80003; }
+__declspec(dllexport) int function80004(int i) { return i + 80004; }
+__declspec(dllexport) int function80005(int i) { return i + 80005; }
+__declspec(dllexport) int function80006(int i) { return i + 80006; }
+__declspec(dllexport) int function80007(int i) { return i + 80007; }
+__declspec(dllexport) int function80008(int i) { return i + 80008; }
+__declspec(dllexport) int function80009(int i) { return i + 80009; }
+__declspec(dllexport) int function80010(int i) { return i + 80010; }
+__declspec(dllexport) int function80011(int i) { return i + 80011; }
+__declspec(dllexport) int function80012(int i) { return i + 80012; }
+__declspec(dllexport) int function80013(int i) { return i + 80013; }
+__declspec(dllexport) int function80014(int i) { return i + 80014; }
+__declspec(dllexport) int function80015(int i) { return i + 80015; }
+__declspec(dllexport) int function80016(int i) { return i + 80016; }
+__declspec(dllexport) int function80017(int i) { return i + 80017; }
+__declspec(dllexport) int function80018(int i) { return i + 80018; }
+__declspec(dllexport) int function80019(int i) { return i + 80019; }
+__declspec(dllexport) int function80020(int i) { return i + 80020; }
+__declspec(dllexport) int function80021(int i) { return i + 80021; }
+__declspec(dllexport) int function80022(int i) { return i + 80022; }
+__declspec(dllexport) int function80023(int i) { return i + 80023; }
+__declspec(dllexport) int function80024(int i) { return i + 80024; }
+__declspec(dllexport) int function80025(int i) { return i + 80025; }
+__declspec(dllexport) int function80026(int i) { return i + 80026; }
+__declspec(dllexport) int function80027(int i) { return i + 80027; }
+__declspec(dllexport) int function80028(int i) { return i + 80028; }
+__declspec(dllexport) int function80029(int i) { return i + 80029; }
+__declspec(dllexport) int function80030(int i) { return i + 80030; }
+__declspec(dllexport) int function80031(int i) { return i + 80031; }
+__declspec(dllexport) int function80032(int i) { return i + 80032; }
+__declspec(dllexport) int function80033(int i) { return i + 80033; }
+__declspec(dllexport) int function80034(int i) { return i + 80034; }
+__declspec(dllexport) int function80035(int i) { return i + 80035; }
+__declspec(dllexport) int function80036(int i) { return i + 80036; }
+__declspec(dllexport) int function80037(int i) { return i + 80037; }
+__declspec(dllexport) int function80038(int i) { return i + 80038; }
+__declspec(dllexport) int function80039(int i) { return i + 80039; }
+__declspec(dllexport) int function80040(int i) { return i + 80040; }
+__declspec(dllexport) int function80041(int i) { return i + 80041; }
+__declspec(dllexport) int function80042(int i) { return i + 80042; }
+__declspec(dllexport) int function80043(int i) { return i + 80043; }
+__declspec(dllexport) int function80044(int i) { return i + 80044; }
+__declspec(dllexport) int function80045(int i) { return i + 80045; }
+__declspec(dllexport) int function80046(int i) { return i + 80046; }
+__declspec(dllexport) int function80047(int i) { return i + 80047; }
+__declspec(dllexport) int function80048(int i) { return i + 80048; }
+__declspec(dllexport) int function80049(int i) { return i + 80049; }
+__declspec(dllexport) int function80050(int i) { return i + 80050; }
+__declspec(dllexport) int function80051(int i) { return i + 80051; }
+__declspec(dllexport) int function80052(int i) { return i + 80052; }
+__declspec(dllexport) int function80053(int i) { return i + 80053; }
+__declspec(dllexport) int function80054(int i) { return i + 80054; }
+__declspec(dllexport) int function80055(int i) { return i + 80055; }
+__declspec(dllexport) int function80056(int i) { return i + 80056; }
+__declspec(dllexport) int function80057(int i) { return i + 80057; }
+__declspec(dllexport) int function80058(int i) { return i + 80058; }
+__declspec(dllexport) int function80059(int i) { return i + 80059; }
+__declspec(dllexport) int function80060(int i) { return i + 80060; }
+__declspec(dllexport) int function80061(int i) { return i + 80061; }
+__declspec(dllexport) int function80062(int i) { return i + 80062; }
+__declspec(dllexport) int function80063(int i) { return i + 80063; }
+__declspec(dllexport) int function80064(int i) { return i + 80064; }
+__declspec(dllexport) int function80065(int i) { return i + 80065; }
+__declspec(dllexport) int function80066(int i) { return i + 80066; }
+__declspec(dllexport) int function80067(int i) { return i + 80067; }
+__declspec(dllexport) int function80068(int i) { return i + 80068; }
+__declspec(dllexport) int function80069(int i) { return i + 80069; }
+__declspec(dllexport) int function80070(int i) { return i + 80070; }
+__declspec(dllexport) int function80071(int i) { return i + 80071; }
+__declspec(dllexport) int function80072(int i) { return i + 80072; }
+__declspec(dllexport) int function80073(int i) { return i + 80073; }
+__declspec(dllexport) int function80074(int i) { return i + 80074; }
+__declspec(dllexport) int function80075(int i) { return i + 80075; }
+__declspec(dllexport) int function80076(int i) { return i + 80076; }
+__declspec(dllexport) int function80077(int i) { return i + 80077; }
+__declspec(dllexport) int function80078(int i) { return i + 80078; }
+__declspec(dllexport) int function80079(int i) { return i + 80079; }
+__declspec(dllexport) int function80080(int i) { return i + 80080; }
+__declspec(dllexport) int function80081(int i) { return i + 80081; }
+__declspec(dllexport) int function80082(int i) { return i + 80082; }
+__declspec(dllexport) int function80083(int i) { return i + 80083; }
+__declspec(dllexport) int function80084(int i) { return i + 80084; }
+__declspec(dllexport) int function80085(int i) { return i + 80085; }
+__declspec(dllexport) int function80086(int i) { return i + 80086; }
+__declspec(dllexport) int function80087(int i) { return i + 80087; }
+__declspec(dllexport) int function80088(int i) { return i + 80088; }
+__declspec(dllexport) int function80089(int i) { return i + 80089; }
+__declspec(dllexport) int function80090(int i) { return i + 80090; }
+__declspec(dllexport) int function80091(int i) { return i + 80091; }
+__declspec(dllexport) int function80092(int i) { return i + 80092; }
+__declspec(dllexport) int function80093(int i) { return i + 80093; }
+__declspec(dllexport) int function80094(int i) { return i + 80094; }
+__declspec(dllexport) int function80095(int i) { return i + 80095; }
+__declspec(dllexport) int function80096(int i) { return i + 80096; }
+__declspec(dllexport) int function80097(int i) { return i + 80097; }
+__declspec(dllexport) int function80098(int i) { return i + 80098; }
+__declspec(dllexport) int function80099(int i) { return i + 80099; }
+__declspec(dllexport) int function80100(int i) { return i + 80100; }
+__declspec(dllexport) int function80101(int i) { return i + 80101; }
+__declspec(dllexport) int function80102(int i) { return i + 80102; }
+__declspec(dllexport) int function80103(int i) { return i + 80103; }
+__declspec(dllexport) int function80104(int i) { return i + 80104; }
+__declspec(dllexport) int function80105(int i) { return i + 80105; }
+__declspec(dllexport) int function80106(int i) { return i + 80106; }
+__declspec(dllexport) int function80107(int i) { return i + 80107; }
+__declspec(dllexport) int function80108(int i) { return i + 80108; }
+__declspec(dllexport) int function80109(int i) { return i + 80109; }
+__declspec(dllexport) int function80110(int i) { return i + 80110; }
+__declspec(dllexport) int function80111(int i) { return i + 80111; }
+__declspec(dllexport) int function80112(int i) { return i + 80112; }
+__declspec(dllexport) int function80113(int i) { return i + 80113; }
+__declspec(dllexport) int function80114(int i) { return i + 80114; }
+__declspec(dllexport) int function80115(int i) { return i + 80115; }
+__declspec(dllexport) int function80116(int i) { return i + 80116; }
+__declspec(dllexport) int function80117(int i) { return i + 80117; }
+__declspec(dllexport) int function80118(int i) { return i + 80118; }
+__declspec(dllexport) int function80119(int i) { return i + 80119; }
+__declspec(dllexport) int function80120(int i) { return i + 80120; }
+__declspec(dllexport) int function80121(int i) { return i + 80121; }
+__declspec(dllexport) int function80122(int i) { return i + 80122; }
+__declspec(dllexport) int function80123(int i) { return i + 80123; }
+__declspec(dllexport) int function80124(int i) { return i + 80124; }
+__declspec(dllexport) int function80125(int i) { return i + 80125; }
+__declspec(dllexport) int function80126(int i) { return i + 80126; }
+__declspec(dllexport) int function80127(int i) { return i + 80127; }
+__declspec(dllexport) int function80128(int i) { return i + 80128; }
+__declspec(dllexport) int function80129(int i) { return i + 80129; }
+__declspec(dllexport) int function80130(int i) { return i + 80130; }
+__declspec(dllexport) int function80131(int i) { return i + 80131; }
+__declspec(dllexport) int function80132(int i) { return i + 80132; }
+__declspec(dllexport) int function80133(int i) { return i + 80133; }
+__declspec(dllexport) int function80134(int i) { return i + 80134; }
+__declspec(dllexport) int function80135(int i) { return i + 80135; }
+__declspec(dllexport) int function80136(int i) { return i + 80136; }
+__declspec(dllexport) int function80137(int i) { return i + 80137; }
+__declspec(dllexport) int function80138(int i) { return i + 80138; }
+__declspec(dllexport) int function80139(int i) { return i + 80139; }
+__declspec(dllexport) int function80140(int i) { return i + 80140; }
+__declspec(dllexport) int function80141(int i) { return i + 80141; }
+__declspec(dllexport) int function80142(int i) { return i + 80142; }
+__declspec(dllexport) int function80143(int i) { return i + 80143; }
+__declspec(dllexport) int function80144(int i) { return i + 80144; }
+__declspec(dllexport) int function80145(int i) { return i + 80145; }
+__declspec(dllexport) int function80146(int i) { return i + 80146; }
+__declspec(dllexport) int function80147(int i) { return i + 80147; }
+__declspec(dllexport) int function80148(int i) { return i + 80148; }
+__declspec(dllexport) int function80149(int i) { return i + 80149; }
+__declspec(dllexport) int function80150(int i) { return i + 80150; }
+__declspec(dllexport) int function80151(int i) { return i + 80151; }
+__declspec(dllexport) int function80152(int i) { return i + 80152; }
+__declspec(dllexport) int function80153(int i) { return i + 80153; }
+__declspec(dllexport) int function80154(int i) { return i + 80154; }
+__declspec(dllexport) int function80155(int i) { return i + 80155; }
+__declspec(dllexport) int function80156(int i) { return i + 80156; }
+__declspec(dllexport) int function80157(int i) { return i + 80157; }
+__declspec(dllexport) int function80158(int i) { return i + 80158; }
+__declspec(dllexport) int function80159(int i) { return i + 80159; }
+__declspec(dllexport) int function80160(int i) { return i + 80160; }
+__declspec(dllexport) int function80161(int i) { return i + 80161; }
+__declspec(dllexport) int function80162(int i) { return i + 80162; }
+__declspec(dllexport) int function80163(int i) { return i + 80163; }
+__declspec(dllexport) int function80164(int i) { return i + 80164; }
+__declspec(dllexport) int function80165(int i) { return i + 80165; }
+__declspec(dllexport) int function80166(int i) { return i + 80166; }
+__declspec(dllexport) int function80167(int i) { return i + 80167; }
+__declspec(dllexport) int function80168(int i) { return i + 80168; }
+__declspec(dllexport) int function80169(int i) { return i + 80169; }
+__declspec(dllexport) int function80170(int i) { return i + 80170; }
+__declspec(dllexport) int function80171(int i) { return i + 80171; }
+__declspec(dllexport) int function80172(int i) { return i + 80172; }
+__declspec(dllexport) int function80173(int i) { return i + 80173; }
+__declspec(dllexport) int function80174(int i) { return i + 80174; }
+__declspec(dllexport) int function80175(int i) { return i + 80175; }
+__declspec(dllexport) int function80176(int i) { return i + 80176; }
+__declspec(dllexport) int function80177(int i) { return i + 80177; }
+__declspec(dllexport) int function80178(int i) { return i + 80178; }
+__declspec(dllexport) int function80179(int i) { return i + 80179; }
+__declspec(dllexport) int function80180(int i) { return i + 80180; }
+__declspec(dllexport) int function80181(int i) { return i + 80181; }
+__declspec(dllexport) int function80182(int i) { return i + 80182; }
+__declspec(dllexport) int function80183(int i) { return i + 80183; }
+__declspec(dllexport) int function80184(int i) { return i + 80184; }
+__declspec(dllexport) int function80185(int i) { return i + 80185; }
+__declspec(dllexport) int function80186(int i) { return i + 80186; }
+__declspec(dllexport) int function80187(int i) { return i + 80187; }
+__declspec(dllexport) int function80188(int i) { return i + 80188; }
+__declspec(dllexport) int function80189(int i) { return i + 80189; }
+__declspec(dllexport) int function80190(int i) { return i + 80190; }
+__declspec(dllexport) int function80191(int i) { return i + 80191; }
+__declspec(dllexport) int function80192(int i) { return i + 80192; }
+__declspec(dllexport) int function80193(int i) { return i + 80193; }
+__declspec(dllexport) int function80194(int i) { return i + 80194; }
+__declspec(dllexport) int function80195(int i) { return i + 80195; }
+__declspec(dllexport) int function80196(int i) { return i + 80196; }
+__declspec(dllexport) int function80197(int i) { return i + 80197; }
+__declspec(dllexport) int function80198(int i) { return i + 80198; }
+__declspec(dllexport) int function80199(int i) { return i + 80199; }
+__declspec(dllexport) int function80200(int i) { return i + 80200; }
+__declspec(dllexport) int function80201(int i) { return i + 80201; }
+__declspec(dllexport) int function80202(int i) { return i + 80202; }
+__declspec(dllexport) int function80203(int i) { return i + 80203; }
+__declspec(dllexport) int function80204(int i) { return i + 80204; }
+__declspec(dllexport) int function80205(int i) { return i + 80205; }
+__declspec(dllexport) int function80206(int i) { return i + 80206; }
+__declspec(dllexport) int function80207(int i) { return i + 80207; }
+__declspec(dllexport) int function80208(int i) { return i + 80208; }
+__declspec(dllexport) int function80209(int i) { return i + 80209; }
+__declspec(dllexport) int function80210(int i) { return i + 80210; }
+__declspec(dllexport) int function80211(int i) { return i + 80211; }
+__declspec(dllexport) int function80212(int i) { return i + 80212; }
+__declspec(dllexport) int function80213(int i) { return i + 80213; }
+__declspec(dllexport) int function80214(int i) { return i + 80214; }
+__declspec(dllexport) int function80215(int i) { return i + 80215; }
+__declspec(dllexport) int function80216(int i) { return i + 80216; }
+__declspec(dllexport) int function80217(int i) { return i + 80217; }
+__declspec(dllexport) int function80218(int i) { return i + 80218; }
+__declspec(dllexport) int function80219(int i) { return i + 80219; }
+__declspec(dllexport) int function80220(int i) { return i + 80220; }
+__declspec(dllexport) int function80221(int i) { return i + 80221; }
+__declspec(dllexport) int function80222(int i) { return i + 80222; }
+__declspec(dllexport) int function80223(int i) { return i + 80223; }
+__declspec(dllexport) int function80224(int i) { return i + 80224; }
+__declspec(dllexport) int function80225(int i) { return i + 80225; }
+__declspec(dllexport) int function80226(int i) { return i + 80226; }
+__declspec(dllexport) int function80227(int i) { return i + 80227; }
+__declspec(dllexport) int function80228(int i) { return i + 80228; }
+__declspec(dllexport) int function80229(int i) { return i + 80229; }
+__declspec(dllexport) int function80230(int i) { return i + 80230; }
+__declspec(dllexport) int function80231(int i) { return i + 80231; }
+__declspec(dllexport) int function80232(int i) { return i + 80232; }
+__declspec(dllexport) int function80233(int i) { return i + 80233; }
+__declspec(dllexport) int function80234(int i) { return i + 80234; }
+__declspec(dllexport) int function80235(int i) { return i + 80235; }
+__declspec(dllexport) int function80236(int i) { return i + 80236; }
+__declspec(dllexport) int function80237(int i) { return i + 80237; }
+__declspec(dllexport) int function80238(int i) { return i + 80238; }
+__declspec(dllexport) int function80239(int i) { return i + 80239; }
+__declspec(dllexport) int function80240(int i) { return i + 80240; }
+__declspec(dllexport) int function80241(int i) { return i + 80241; }
+__declspec(dllexport) int function80242(int i) { return i + 80242; }
+__declspec(dllexport) int function80243(int i) { return i + 80243; }
+__declspec(dllexport) int function80244(int i) { return i + 80244; }
+__declspec(dllexport) int function80245(int i) { return i + 80245; }
+__declspec(dllexport) int function80246(int i) { return i + 80246; }
+__declspec(dllexport) int function80247(int i) { return i + 80247; }
+__declspec(dllexport) int function80248(int i) { return i + 80248; }
+__declspec(dllexport) int function80249(int i) { return i + 80249; }
+__declspec(dllexport) int function80250(int i) { return i + 80250; }
+__declspec(dllexport) int function80251(int i) { return i + 80251; }
+__declspec(dllexport) int function80252(int i) { return i + 80252; }
+__declspec(dllexport) int function80253(int i) { return i + 80253; }
+__declspec(dllexport) int function80254(int i) { return i + 80254; }
+__declspec(dllexport) int function80255(int i) { return i + 80255; }
+__declspec(dllexport) int function80256(int i) { return i + 80256; }
+__declspec(dllexport) int function80257(int i) { return i + 80257; }
+__declspec(dllexport) int function80258(int i) { return i + 80258; }
+__declspec(dllexport) int function80259(int i) { return i + 80259; }
+__declspec(dllexport) int function80260(int i) { return i + 80260; }
+__declspec(dllexport) int function80261(int i) { return i + 80261; }
+__declspec(dllexport) int function80262(int i) { return i + 80262; }
+__declspec(dllexport) int function80263(int i) { return i + 80263; }
+__declspec(dllexport) int function80264(int i) { return i + 80264; }
+__declspec(dllexport) int function80265(int i) { return i + 80265; }
+__declspec(dllexport) int function80266(int i) { return i + 80266; }
+__declspec(dllexport) int function80267(int i) { return i + 80267; }
+__declspec(dllexport) int function80268(int i) { return i + 80268; }
+__declspec(dllexport) int function80269(int i) { return i + 80269; }
+__declspec(dllexport) int function80270(int i) { return i + 80270; }
+__declspec(dllexport) int function80271(int i) { return i + 80271; }
+__declspec(dllexport) int function80272(int i) { return i + 80272; }
+__declspec(dllexport) int function80273(int i) { return i + 80273; }
+__declspec(dllexport) int function80274(int i) { return i + 80274; }
+__declspec(dllexport) int function80275(int i) { return i + 80275; }
+__declspec(dllexport) int function80276(int i) { return i + 80276; }
+__declspec(dllexport) int function80277(int i) { return i + 80277; }
+__declspec(dllexport) int function80278(int i) { return i + 80278; }
+__declspec(dllexport) int function80279(int i) { return i + 80279; }
+__declspec(dllexport) int function80280(int i) { return i + 80280; }
+__declspec(dllexport) int function80281(int i) { return i + 80281; }
+__declspec(dllexport) int function80282(int i) { return i + 80282; }
+__declspec(dllexport) int function80283(int i) { return i + 80283; }
+__declspec(dllexport) int function80284(int i) { return i + 80284; }
+__declspec(dllexport) int function80285(int i) { return i + 80285; }
+__declspec(dllexport) int function80286(int i) { return i + 80286; }
+__declspec(dllexport) int function80287(int i) { return i + 80287; }
+__declspec(dllexport) int function80288(int i) { return i + 80288; }
+__declspec(dllexport) int function80289(int i) { return i + 80289; }
+__declspec(dllexport) int function80290(int i) { return i + 80290; }
+__declspec(dllexport) int function80291(int i) { return i + 80291; }
+__declspec(dllexport) int function80292(int i) { return i + 80292; }
+__declspec(dllexport) int function80293(int i) { return i + 80293; }
+__declspec(dllexport) int function80294(int i) { return i + 80294; }
+__declspec(dllexport) int function80295(int i) { return i + 80295; }
+__declspec(dllexport) int function80296(int i) { return i + 80296; }
+__declspec(dllexport) int function80297(int i) { return i + 80297; }
+__declspec(dllexport) int function80298(int i) { return i + 80298; }
+__declspec(dllexport) int function80299(int i) { return i + 80299; }
+__declspec(dllexport) int function80300(int i) { return i + 80300; }
+__declspec(dllexport) int function80301(int i) { return i + 80301; }
+__declspec(dllexport) int function80302(int i) { return i + 80302; }
+__declspec(dllexport) int function80303(int i) { return i + 80303; }
+__declspec(dllexport) int function80304(int i) { return i + 80304; }
+__declspec(dllexport) int function80305(int i) { return i + 80305; }
+__declspec(dllexport) int function80306(int i) { return i + 80306; }
+__declspec(dllexport) int function80307(int i) { return i + 80307; }
+__declspec(dllexport) int function80308(int i) { return i + 80308; }
+__declspec(dllexport) int function80309(int i) { return i + 80309; }
+__declspec(dllexport) int function80310(int i) { return i + 80310; }
+__declspec(dllexport) int function80311(int i) { return i + 80311; }
+__declspec(dllexport) int function80312(int i) { return i + 80312; }
+__declspec(dllexport) int function80313(int i) { return i + 80313; }
+__declspec(dllexport) int function80314(int i) { return i + 80314; }
+__declspec(dllexport) int function80315(int i) { return i + 80315; }
+__declspec(dllexport) int function80316(int i) { return i + 80316; }
+__declspec(dllexport) int function80317(int i) { return i + 80317; }
+__declspec(dllexport) int function80318(int i) { return i + 80318; }
+__declspec(dllexport) int function80319(int i) { return i + 80319; }
+__declspec(dllexport) int function80320(int i) { return i + 80320; }
+__declspec(dllexport) int function80321(int i) { return i + 80321; }
+__declspec(dllexport) int function80322(int i) { return i + 80322; }
+__declspec(dllexport) int function80323(int i) { return i + 80323; }
+__declspec(dllexport) int function80324(int i) { return i + 80324; }
+__declspec(dllexport) int function80325(int i) { return i + 80325; }
+__declspec(dllexport) int function80326(int i) { return i + 80326; }
+__declspec(dllexport) int function80327(int i) { return i + 80327; }
+__declspec(dllexport) int function80328(int i) { return i + 80328; }
+__declspec(dllexport) int function80329(int i) { return i + 80329; }
+__declspec(dllexport) int function80330(int i) { return i + 80330; }
+__declspec(dllexport) int function80331(int i) { return i + 80331; }
+__declspec(dllexport) int function80332(int i) { return i + 80332; }
+__declspec(dllexport) int function80333(int i) { return i + 80333; }
+__declspec(dllexport) int function80334(int i) { return i + 80334; }
+__declspec(dllexport) int function80335(int i) { return i + 80335; }
+__declspec(dllexport) int function80336(int i) { return i + 80336; }
+__declspec(dllexport) int function80337(int i) { return i + 80337; }
+__declspec(dllexport) int function80338(int i) { return i + 80338; }
+__declspec(dllexport) int function80339(int i) { return i + 80339; }
+__declspec(dllexport) int function80340(int i) { return i + 80340; }
+__declspec(dllexport) int function80341(int i) { return i + 80341; }
+__declspec(dllexport) int function80342(int i) { return i + 80342; }
+__declspec(dllexport) int function80343(int i) { return i + 80343; }
+__declspec(dllexport) int function80344(int i) { return i + 80344; }
+__declspec(dllexport) int function80345(int i) { return i + 80345; }
+__declspec(dllexport) int function80346(int i) { return i + 80346; }
+__declspec(dllexport) int function80347(int i) { return i + 80347; }
+__declspec(dllexport) int function80348(int i) { return i + 80348; }
+__declspec(dllexport) int function80349(int i) { return i + 80349; }
+__declspec(dllexport) int function80350(int i) { return i + 80350; }
+__declspec(dllexport) int function80351(int i) { return i + 80351; }
+__declspec(dllexport) int function80352(int i) { return i + 80352; }
+__declspec(dllexport) int function80353(int i) { return i + 80353; }
+__declspec(dllexport) int function80354(int i) { return i + 80354; }
+__declspec(dllexport) int function80355(int i) { return i + 80355; }
+__declspec(dllexport) int function80356(int i) { return i + 80356; }
+__declspec(dllexport) int function80357(int i) { return i + 80357; }
+__declspec(dllexport) int function80358(int i) { return i + 80358; }
+__declspec(dllexport) int function80359(int i) { return i + 80359; }
+__declspec(dllexport) int function80360(int i) { return i + 80360; }
+__declspec(dllexport) int function80361(int i) { return i + 80361; }
+__declspec(dllexport) int function80362(int i) { return i + 80362; }
+__declspec(dllexport) int function80363(int i) { return i + 80363; }
+__declspec(dllexport) int function80364(int i) { return i + 80364; }
+__declspec(dllexport) int function80365(int i) { return i + 80365; }
+__declspec(dllexport) int function80366(int i) { return i + 80366; }
+__declspec(dllexport) int function80367(int i) { return i + 80367; }
+__declspec(dllexport) int function80368(int i) { return i + 80368; }
+__declspec(dllexport) int function80369(int i) { return i + 80369; }
+__declspec(dllexport) int function80370(int i) { return i + 80370; }
+__declspec(dllexport) int function80371(int i) { return i + 80371; }
+__declspec(dllexport) int function80372(int i) { return i + 80372; }
+__declspec(dllexport) int function80373(int i) { return i + 80373; }
+__declspec(dllexport) int function80374(int i) { return i + 80374; }
+__declspec(dllexport) int function80375(int i) { return i + 80375; }
+__declspec(dllexport) int function80376(int i) { return i + 80376; }
+__declspec(dllexport) int function80377(int i) { return i + 80377; }
+__declspec(dllexport) int function80378(int i) { return i + 80378; }
+__declspec(dllexport) int function80379(int i) { return i + 80379; }
+__declspec(dllexport) int function80380(int i) { return i + 80380; }
+__declspec(dllexport) int function80381(int i) { return i + 80381; }
+__declspec(dllexport) int function80382(int i) { return i + 80382; }
+__declspec(dllexport) int function80383(int i) { return i + 80383; }
+__declspec(dllexport) int function80384(int i) { return i + 80384; }
+__declspec(dllexport) int function80385(int i) { return i + 80385; }
+__declspec(dllexport) int function80386(int i) { return i + 80386; }
+__declspec(dllexport) int function80387(int i) { return i + 80387; }
+__declspec(dllexport) int function80388(int i) { return i + 80388; }
+__declspec(dllexport) int function80389(int i) { return i + 80389; }
+__declspec(dllexport) int function80390(int i) { return i + 80390; }
+__declspec(dllexport) int function80391(int i) { return i + 80391; }
+__declspec(dllexport) int function80392(int i) { return i + 80392; }
+__declspec(dllexport) int function80393(int i) { return i + 80393; }
+__declspec(dllexport) int function80394(int i) { return i + 80394; }
+__declspec(dllexport) int function80395(int i) { return i + 80395; }
+__declspec(dllexport) int function80396(int i) { return i + 80396; }
+__declspec(dllexport) int function80397(int i) { return i + 80397; }
+__declspec(dllexport) int function80398(int i) { return i + 80398; }
+__declspec(dllexport) int function80399(int i) { return i + 80399; }
+__declspec(dllexport) int function80400(int i) { return i + 80400; }
+__declspec(dllexport) int function80401(int i) { return i + 80401; }
+__declspec(dllexport) int function80402(int i) { return i + 80402; }
+__declspec(dllexport) int function80403(int i) { return i + 80403; }
+__declspec(dllexport) int function80404(int i) { return i + 80404; }
+__declspec(dllexport) int function80405(int i) { return i + 80405; }
+__declspec(dllexport) int function80406(int i) { return i + 80406; }
+__declspec(dllexport) int function80407(int i) { return i + 80407; }
+__declspec(dllexport) int function80408(int i) { return i + 80408; }
+__declspec(dllexport) int function80409(int i) { return i + 80409; }
+__declspec(dllexport) int function80410(int i) { return i + 80410; }
+__declspec(dllexport) int function80411(int i) { return i + 80411; }
+__declspec(dllexport) int function80412(int i) { return i + 80412; }
+__declspec(dllexport) int function80413(int i) { return i + 80413; }
+__declspec(dllexport) int function80414(int i) { return i + 80414; }
+__declspec(dllexport) int function80415(int i) { return i + 80415; }
+__declspec(dllexport) int function80416(int i) { return i + 80416; }
+__declspec(dllexport) int function80417(int i) { return i + 80417; }
+__declspec(dllexport) int function80418(int i) { return i + 80418; }
+__declspec(dllexport) int function80419(int i) { return i + 80419; }
+__declspec(dllexport) int function80420(int i) { return i + 80420; }
+__declspec(dllexport) int function80421(int i) { return i + 80421; }
+__declspec(dllexport) int function80422(int i) { return i + 80422; }
+__declspec(dllexport) int function80423(int i) { return i + 80423; }
+__declspec(dllexport) int function80424(int i) { return i + 80424; }
+__declspec(dllexport) int function80425(int i) { return i + 80425; }
+__declspec(dllexport) int function80426(int i) { return i + 80426; }
+__declspec(dllexport) int function80427(int i) { return i + 80427; }
+__declspec(dllexport) int function80428(int i) { return i + 80428; }
+__declspec(dllexport) int function80429(int i) { return i + 80429; }
+__declspec(dllexport) int function80430(int i) { return i + 80430; }
+__declspec(dllexport) int function80431(int i) { return i + 80431; }
+__declspec(dllexport) int function80432(int i) { return i + 80432; }
+__declspec(dllexport) int function80433(int i) { return i + 80433; }
+__declspec(dllexport) int function80434(int i) { return i + 80434; }
+__declspec(dllexport) int function80435(int i) { return i + 80435; }
+__declspec(dllexport) int function80436(int i) { return i + 80436; }
+__declspec(dllexport) int function80437(int i) { return i + 80437; }
+__declspec(dllexport) int function80438(int i) { return i + 80438; }
+__declspec(dllexport) int function80439(int i) { return i + 80439; }
+__declspec(dllexport) int function80440(int i) { return i + 80440; }
+__declspec(dllexport) int function80441(int i) { return i + 80441; }
+__declspec(dllexport) int function80442(int i) { return i + 80442; }
+__declspec(dllexport) int function80443(int i) { return i + 80443; }
+__declspec(dllexport) int function80444(int i) { return i + 80444; }
+__declspec(dllexport) int function80445(int i) { return i + 80445; }
+__declspec(dllexport) int function80446(int i) { return i + 80446; }
+__declspec(dllexport) int function80447(int i) { return i + 80447; }
+__declspec(dllexport) int function80448(int i) { return i + 80448; }
+__declspec(dllexport) int function80449(int i) { return i + 80449; }
+__declspec(dllexport) int function80450(int i) { return i + 80450; }
+__declspec(dllexport) int function80451(int i) { return i + 80451; }
+__declspec(dllexport) int function80452(int i) { return i + 80452; }
+__declspec(dllexport) int function80453(int i) { return i + 80453; }
+__declspec(dllexport) int function80454(int i) { return i + 80454; }
+__declspec(dllexport) int function80455(int i) { return i + 80455; }
+__declspec(dllexport) int function80456(int i) { return i + 80456; }
+__declspec(dllexport) int function80457(int i) { return i + 80457; }
+__declspec(dllexport) int function80458(int i) { return i + 80458; }
+__declspec(dllexport) int function80459(int i) { return i + 80459; }
+__declspec(dllexport) int function80460(int i) { return i + 80460; }
+__declspec(dllexport) int function80461(int i) { return i + 80461; }
+__declspec(dllexport) int function80462(int i) { return i + 80462; }
+__declspec(dllexport) int function80463(int i) { return i + 80463; }
+__declspec(dllexport) int function80464(int i) { return i + 80464; }
+__declspec(dllexport) int function80465(int i) { return i + 80465; }
+__declspec(dllexport) int function80466(int i) { return i + 80466; }
+__declspec(dllexport) int function80467(int i) { return i + 80467; }
+__declspec(dllexport) int function80468(int i) { return i + 80468; }
+__declspec(dllexport) int function80469(int i) { return i + 80469; }
+__declspec(dllexport) int function80470(int i) { return i + 80470; }
+__declspec(dllexport) int function80471(int i) { return i + 80471; }
+__declspec(dllexport) int function80472(int i) { return i + 80472; }
+__declspec(dllexport) int function80473(int i) { return i + 80473; }
+__declspec(dllexport) int function80474(int i) { return i + 80474; }
+__declspec(dllexport) int function80475(int i) { return i + 80475; }
+__declspec(dllexport) int function80476(int i) { return i + 80476; }
+__declspec(dllexport) int function80477(int i) { return i + 80477; }
+__declspec(dllexport) int function80478(int i) { return i + 80478; }
+__declspec(dllexport) int function80479(int i) { return i + 80479; }
+__declspec(dllexport) int function80480(int i) { return i + 80480; }
+__declspec(dllexport) int function80481(int i) { return i + 80481; }
+__declspec(dllexport) int function80482(int i) { return i + 80482; }
+__declspec(dllexport) int function80483(int i) { return i + 80483; }
+__declspec(dllexport) int function80484(int i) { return i + 80484; }
+__declspec(dllexport) int function80485(int i) { return i + 80485; }
+__declspec(dllexport) int function80486(int i) { return i + 80486; }
+__declspec(dllexport) int function80487(int i) { return i + 80487; }
+__declspec(dllexport) int function80488(int i) { return i + 80488; }
+__declspec(dllexport) int function80489(int i) { return i + 80489; }
+__declspec(dllexport) int function80490(int i) { return i + 80490; }
+__declspec(dllexport) int function80491(int i) { return i + 80491; }
+__declspec(dllexport) int function80492(int i) { return i + 80492; }
+__declspec(dllexport) int function80493(int i) { return i + 80493; }
+__declspec(dllexport) int function80494(int i) { return i + 80494; }
+__declspec(dllexport) int function80495(int i) { return i + 80495; }
+__declspec(dllexport) int function80496(int i) { return i + 80496; }
+__declspec(dllexport) int function80497(int i) { return i + 80497; }
+__declspec(dllexport) int function80498(int i) { return i + 80498; }
+__declspec(dllexport) int function80499(int i) { return i + 80499; }
+__declspec(dllexport) int function80500(int i) { return i + 80500; }
+__declspec(dllexport) int function80501(int i) { return i + 80501; }
+__declspec(dllexport) int function80502(int i) { return i + 80502; }
+__declspec(dllexport) int function80503(int i) { return i + 80503; }
+__declspec(dllexport) int function80504(int i) { return i + 80504; }
+__declspec(dllexport) int function80505(int i) { return i + 80505; }
+__declspec(dllexport) int function80506(int i) { return i + 80506; }
+__declspec(dllexport) int function80507(int i) { return i + 80507; }
+__declspec(dllexport) int function80508(int i) { return i + 80508; }
+__declspec(dllexport) int function80509(int i) { return i + 80509; }
+__declspec(dllexport) int function80510(int i) { return i + 80510; }
+__declspec(dllexport) int function80511(int i) { return i + 80511; }
+__declspec(dllexport) int function80512(int i) { return i + 80512; }
+__declspec(dllexport) int function80513(int i) { return i + 80513; }
+__declspec(dllexport) int function80514(int i) { return i + 80514; }
+__declspec(dllexport) int function80515(int i) { return i + 80515; }
+__declspec(dllexport) int function80516(int i) { return i + 80516; }
+__declspec(dllexport) int function80517(int i) { return i + 80517; }
+__declspec(dllexport) int function80518(int i) { return i + 80518; }
+__declspec(dllexport) int function80519(int i) { return i + 80519; }
+__declspec(dllexport) int function80520(int i) { return i + 80520; }
+__declspec(dllexport) int function80521(int i) { return i + 80521; }
+__declspec(dllexport) int function80522(int i) { return i + 80522; }
+__declspec(dllexport) int function80523(int i) { return i + 80523; }
+__declspec(dllexport) int function80524(int i) { return i + 80524; }
+__declspec(dllexport) int function80525(int i) { return i + 80525; }
+__declspec(dllexport) int function80526(int i) { return i + 80526; }
+__declspec(dllexport) int function80527(int i) { return i + 80527; }
+__declspec(dllexport) int function80528(int i) { return i + 80528; }
+__declspec(dllexport) int function80529(int i) { return i + 80529; }
+__declspec(dllexport) int function80530(int i) { return i + 80530; }
+__declspec(dllexport) int function80531(int i) { return i + 80531; }
+__declspec(dllexport) int function80532(int i) { return i + 80532; }
+__declspec(dllexport) int function80533(int i) { return i + 80533; }
+__declspec(dllexport) int function80534(int i) { return i + 80534; }
+__declspec(dllexport) int function80535(int i) { return i + 80535; }
+__declspec(dllexport) int function80536(int i) { return i + 80536; }
+__declspec(dllexport) int function80537(int i) { return i + 80537; }
+__declspec(dllexport) int function80538(int i) { return i + 80538; }
+__declspec(dllexport) int function80539(int i) { return i + 80539; }
+__declspec(dllexport) int function80540(int i) { return i + 80540; }
+__declspec(dllexport) int function80541(int i) { return i + 80541; }
+__declspec(dllexport) int function80542(int i) { return i + 80542; }
+__declspec(dllexport) int function80543(int i) { return i + 80543; }
+__declspec(dllexport) int function80544(int i) { return i + 80544; }
+__declspec(dllexport) int function80545(int i) { return i + 80545; }
+__declspec(dllexport) int function80546(int i) { return i + 80546; }
+__declspec(dllexport) int function80547(int i) { return i + 80547; }
+__declspec(dllexport) int function80548(int i) { return i + 80548; }
+__declspec(dllexport) int function80549(int i) { return i + 80549; }
+__declspec(dllexport) int function80550(int i) { return i + 80550; }
+__declspec(dllexport) int function80551(int i) { return i + 80551; }
+__declspec(dllexport) int function80552(int i) { return i + 80552; }
+__declspec(dllexport) int function80553(int i) { return i + 80553; }
+__declspec(dllexport) int function80554(int i) { return i + 80554; }
+__declspec(dllexport) int function80555(int i) { return i + 80555; }
+__declspec(dllexport) int function80556(int i) { return i + 80556; }
+__declspec(dllexport) int function80557(int i) { return i + 80557; }
+__declspec(dllexport) int function80558(int i) { return i + 80558; }
+__declspec(dllexport) int function80559(int i) { return i + 80559; }
+__declspec(dllexport) int function80560(int i) { return i + 80560; }
+__declspec(dllexport) int function80561(int i) { return i + 80561; }
+__declspec(dllexport) int function80562(int i) { return i + 80562; }
+__declspec(dllexport) int function80563(int i) { return i + 80563; }
+__declspec(dllexport) int function80564(int i) { return i + 80564; }
+__declspec(dllexport) int function80565(int i) { return i + 80565; }
+__declspec(dllexport) int function80566(int i) { return i + 80566; }
+__declspec(dllexport) int function80567(int i) { return i + 80567; }
+__declspec(dllexport) int function80568(int i) { return i + 80568; }
+__declspec(dllexport) int function80569(int i) { return i + 80569; }
+__declspec(dllexport) int function80570(int i) { return i + 80570; }
+__declspec(dllexport) int function80571(int i) { return i + 80571; }
+__declspec(dllexport) int function80572(int i) { return i + 80572; }
+__declspec(dllexport) int function80573(int i) { return i + 80573; }
+__declspec(dllexport) int function80574(int i) { return i + 80574; }
+__declspec(dllexport) int function80575(int i) { return i + 80575; }
+__declspec(dllexport) int function80576(int i) { return i + 80576; }
+__declspec(dllexport) int function80577(int i) { return i + 80577; }
+__declspec(dllexport) int function80578(int i) { return i + 80578; }
+__declspec(dllexport) int function80579(int i) { return i + 80579; }
+__declspec(dllexport) int function80580(int i) { return i + 80580; }
+__declspec(dllexport) int function80581(int i) { return i + 80581; }
+__declspec(dllexport) int function80582(int i) { return i + 80582; }
+__declspec(dllexport) int function80583(int i) { return i + 80583; }
+__declspec(dllexport) int function80584(int i) { return i + 80584; }
+__declspec(dllexport) int function80585(int i) { return i + 80585; }
+__declspec(dllexport) int function80586(int i) { return i + 80586; }
+__declspec(dllexport) int function80587(int i) { return i + 80587; }
+__declspec(dllexport) int function80588(int i) { return i + 80588; }
+__declspec(dllexport) int function80589(int i) { return i + 80589; }
+__declspec(dllexport) int function80590(int i) { return i + 80590; }
+__declspec(dllexport) int function80591(int i) { return i + 80591; }
+__declspec(dllexport) int function80592(int i) { return i + 80592; }
+__declspec(dllexport) int function80593(int i) { return i + 80593; }
+__declspec(dllexport) int function80594(int i) { return i + 80594; }
+__declspec(dllexport) int function80595(int i) { return i + 80595; }
+__declspec(dllexport) int function80596(int i) { return i + 80596; }
+__declspec(dllexport) int function80597(int i) { return i + 80597; }
+__declspec(dllexport) int function80598(int i) { return i + 80598; }
+__declspec(dllexport) int function80599(int i) { return i + 80599; }
+__declspec(dllexport) int function80600(int i) { return i + 80600; }
+__declspec(dllexport) int function80601(int i) { return i + 80601; }
+__declspec(dllexport) int function80602(int i) { return i + 80602; }
+__declspec(dllexport) int function80603(int i) { return i + 80603; }
+__declspec(dllexport) int function80604(int i) { return i + 80604; }
+__declspec(dllexport) int function80605(int i) { return i + 80605; }
+__declspec(dllexport) int function80606(int i) { return i + 80606; }
+__declspec(dllexport) int function80607(int i) { return i + 80607; }
+__declspec(dllexport) int function80608(int i) { return i + 80608; }
+__declspec(dllexport) int function80609(int i) { return i + 80609; }
+__declspec(dllexport) int function80610(int i) { return i + 80610; }
+__declspec(dllexport) int function80611(int i) { return i + 80611; }
+__declspec(dllexport) int function80612(int i) { return i + 80612; }
+__declspec(dllexport) int function80613(int i) { return i + 80613; }
+__declspec(dllexport) int function80614(int i) { return i + 80614; }
+__declspec(dllexport) int function80615(int i) { return i + 80615; }
+__declspec(dllexport) int function80616(int i) { return i + 80616; }
+__declspec(dllexport) int function80617(int i) { return i + 80617; }
+__declspec(dllexport) int function80618(int i) { return i + 80618; }
+__declspec(dllexport) int function80619(int i) { return i + 80619; }
+__declspec(dllexport) int function80620(int i) { return i + 80620; }
+__declspec(dllexport) int function80621(int i) { return i + 80621; }
+__declspec(dllexport) int function80622(int i) { return i + 80622; }
+__declspec(dllexport) int function80623(int i) { return i + 80623; }
+__declspec(dllexport) int function80624(int i) { return i + 80624; }
+__declspec(dllexport) int function80625(int i) { return i + 80625; }
+__declspec(dllexport) int function80626(int i) { return i + 80626; }
+__declspec(dllexport) int function80627(int i) { return i + 80627; }
+__declspec(dllexport) int function80628(int i) { return i + 80628; }
+__declspec(dllexport) int function80629(int i) { return i + 80629; }
+__declspec(dllexport) int function80630(int i) { return i + 80630; }
+__declspec(dllexport) int function80631(int i) { return i + 80631; }
+__declspec(dllexport) int function80632(int i) { return i + 80632; }
+__declspec(dllexport) int function80633(int i) { return i + 80633; }
+__declspec(dllexport) int function80634(int i) { return i + 80634; }
+__declspec(dllexport) int function80635(int i) { return i + 80635; }
+__declspec(dllexport) int function80636(int i) { return i + 80636; }
+__declspec(dllexport) int function80637(int i) { return i + 80637; }
+__declspec(dllexport) int function80638(int i) { return i + 80638; }
+__declspec(dllexport) int function80639(int i) { return i + 80639; }
+__declspec(dllexport) int function80640(int i) { return i + 80640; }
+__declspec(dllexport) int function80641(int i) { return i + 80641; }
+__declspec(dllexport) int function80642(int i) { return i + 80642; }
+__declspec(dllexport) int function80643(int i) { return i + 80643; }
+__declspec(dllexport) int function80644(int i) { return i + 80644; }
+__declspec(dllexport) int function80645(int i) { return i + 80645; }
+__declspec(dllexport) int function80646(int i) { return i + 80646; }
+__declspec(dllexport) int function80647(int i) { return i + 80647; }
+__declspec(dllexport) int function80648(int i) { return i + 80648; }
+__declspec(dllexport) int function80649(int i) { return i + 80649; }
+__declspec(dllexport) int function80650(int i) { return i + 80650; }
+__declspec(dllexport) int function80651(int i) { return i + 80651; }
+__declspec(dllexport) int function80652(int i) { return i + 80652; }
+__declspec(dllexport) int function80653(int i) { return i + 80653; }
+__declspec(dllexport) int function80654(int i) { return i + 80654; }
+__declspec(dllexport) int function80655(int i) { return i + 80655; }
+__declspec(dllexport) int function80656(int i) { return i + 80656; }
+__declspec(dllexport) int function80657(int i) { return i + 80657; }
+__declspec(dllexport) int function80658(int i) { return i + 80658; }
+__declspec(dllexport) int function80659(int i) { return i + 80659; }
+__declspec(dllexport) int function80660(int i) { return i + 80660; }
+__declspec(dllexport) int function80661(int i) { return i + 80661; }
+__declspec(dllexport) int function80662(int i) { return i + 80662; }
+__declspec(dllexport) int function80663(int i) { return i + 80663; }
+__declspec(dllexport) int function80664(int i) { return i + 80664; }
+__declspec(dllexport) int function80665(int i) { return i + 80665; }
+__declspec(dllexport) int function80666(int i) { return i + 80666; }
+__declspec(dllexport) int function80667(int i) { return i + 80667; }
+__declspec(dllexport) int function80668(int i) { return i + 80668; }
+__declspec(dllexport) int function80669(int i) { return i + 80669; }
+__declspec(dllexport) int function80670(int i) { return i + 80670; }
+__declspec(dllexport) int function80671(int i) { return i + 80671; }
+__declspec(dllexport) int function80672(int i) { return i + 80672; }
+__declspec(dllexport) int function80673(int i) { return i + 80673; }
+__declspec(dllexport) int function80674(int i) { return i + 80674; }
+__declspec(dllexport) int function80675(int i) { return i + 80675; }
+__declspec(dllexport) int function80676(int i) { return i + 80676; }
+__declspec(dllexport) int function80677(int i) { return i + 80677; }
+__declspec(dllexport) int function80678(int i) { return i + 80678; }
+__declspec(dllexport) int function80679(int i) { return i + 80679; }
+__declspec(dllexport) int function80680(int i) { return i + 80680; }
+__declspec(dllexport) int function80681(int i) { return i + 80681; }
+__declspec(dllexport) int function80682(int i) { return i + 80682; }
+__declspec(dllexport) int function80683(int i) { return i + 80683; }
+__declspec(dllexport) int function80684(int i) { return i + 80684; }
+__declspec(dllexport) int function80685(int i) { return i + 80685; }
+__declspec(dllexport) int function80686(int i) { return i + 80686; }
+__declspec(dllexport) int function80687(int i) { return i + 80687; }
+__declspec(dllexport) int function80688(int i) { return i + 80688; }
+__declspec(dllexport) int function80689(int i) { return i + 80689; }
+__declspec(dllexport) int function80690(int i) { return i + 80690; }
+__declspec(dllexport) int function80691(int i) { return i + 80691; }
+__declspec(dllexport) int function80692(int i) { return i + 80692; }
+__declspec(dllexport) int function80693(int i) { return i + 80693; }
+__declspec(dllexport) int function80694(int i) { return i + 80694; }
+__declspec(dllexport) int function80695(int i) { return i + 80695; }
+__declspec(dllexport) int function80696(int i) { return i + 80696; }
+__declspec(dllexport) int function80697(int i) { return i + 80697; }
+__declspec(dllexport) int function80698(int i) { return i + 80698; }
+__declspec(dllexport) int function80699(int i) { return i + 80699; }
+__declspec(dllexport) int function80700(int i) { return i + 80700; }
+__declspec(dllexport) int function80701(int i) { return i + 80701; }
+__declspec(dllexport) int function80702(int i) { return i + 80702; }
+__declspec(dllexport) int function80703(int i) { return i + 80703; }
+__declspec(dllexport) int function80704(int i) { return i + 80704; }
+__declspec(dllexport) int function80705(int i) { return i + 80705; }
+__declspec(dllexport) int function80706(int i) { return i + 80706; }
+__declspec(dllexport) int function80707(int i) { return i + 80707; }
+__declspec(dllexport) int function80708(int i) { return i + 80708; }
+__declspec(dllexport) int function80709(int i) { return i + 80709; }
+__declspec(dllexport) int function80710(int i) { return i + 80710; }
+__declspec(dllexport) int function80711(int i) { return i + 80711; }
+__declspec(dllexport) int function80712(int i) { return i + 80712; }
+__declspec(dllexport) int function80713(int i) { return i + 80713; }
+__declspec(dllexport) int function80714(int i) { return i + 80714; }
+__declspec(dllexport) int function80715(int i) { return i + 80715; }
+__declspec(dllexport) int function80716(int i) { return i + 80716; }
+__declspec(dllexport) int function80717(int i) { return i + 80717; }
+__declspec(dllexport) int function80718(int i) { return i + 80718; }
+__declspec(dllexport) int function80719(int i) { return i + 80719; }
+__declspec(dllexport) int function80720(int i) { return i + 80720; }
+__declspec(dllexport) int function80721(int i) { return i + 80721; }
+__declspec(dllexport) int function80722(int i) { return i + 80722; }
+__declspec(dllexport) int function80723(int i) { return i + 80723; }
+__declspec(dllexport) int function80724(int i) { return i + 80724; }
+__declspec(dllexport) int function80725(int i) { return i + 80725; }
+__declspec(dllexport) int function80726(int i) { return i + 80726; }
+__declspec(dllexport) int function80727(int i) { return i + 80727; }
+__declspec(dllexport) int function80728(int i) { return i + 80728; }
+__declspec(dllexport) int function80729(int i) { return i + 80729; }
+__declspec(dllexport) int function80730(int i) { return i + 80730; }
+__declspec(dllexport) int function80731(int i) { return i + 80731; }
+__declspec(dllexport) int function80732(int i) { return i + 80732; }
+__declspec(dllexport) int function80733(int i) { return i + 80733; }
+__declspec(dllexport) int function80734(int i) { return i + 80734; }
+__declspec(dllexport) int function80735(int i) { return i + 80735; }
+__declspec(dllexport) int function80736(int i) { return i + 80736; }
+__declspec(dllexport) int function80737(int i) { return i + 80737; }
+__declspec(dllexport) int function80738(int i) { return i + 80738; }
+__declspec(dllexport) int function80739(int i) { return i + 80739; }
+__declspec(dllexport) int function80740(int i) { return i + 80740; }
+__declspec(dllexport) int function80741(int i) { return i + 80741; }
+__declspec(dllexport) int function80742(int i) { return i + 80742; }
+__declspec(dllexport) int function80743(int i) { return i + 80743; }
+__declspec(dllexport) int function80744(int i) { return i + 80744; }
+__declspec(dllexport) int function80745(int i) { return i + 80745; }
+__declspec(dllexport) int function80746(int i) { return i + 80746; }
+__declspec(dllexport) int function80747(int i) { return i + 80747; }
+__declspec(dllexport) int function80748(int i) { return i + 80748; }
+__declspec(dllexport) int function80749(int i) { return i + 80749; }
+__declspec(dllexport) int function80750(int i) { return i + 80750; }
+__declspec(dllexport) int function80751(int i) { return i + 80751; }
+__declspec(dllexport) int function80752(int i) { return i + 80752; }
+__declspec(dllexport) int function80753(int i) { return i + 80753; }
+__declspec(dllexport) int function80754(int i) { return i + 80754; }
+__declspec(dllexport) int function80755(int i) { return i + 80755; }
+__declspec(dllexport) int function80756(int i) { return i + 80756; }
+__declspec(dllexport) int function80757(int i) { return i + 80757; }
+__declspec(dllexport) int function80758(int i) { return i + 80758; }
+__declspec(dllexport) int function80759(int i) { return i + 80759; }
+__declspec(dllexport) int function80760(int i) { return i + 80760; }
+__declspec(dllexport) int function80761(int i) { return i + 80761; }
+__declspec(dllexport) int function80762(int i) { return i + 80762; }
+__declspec(dllexport) int function80763(int i) { return i + 80763; }
+__declspec(dllexport) int function80764(int i) { return i + 80764; }
+__declspec(dllexport) int function80765(int i) { return i + 80765; }
+__declspec(dllexport) int function80766(int i) { return i + 80766; }
+__declspec(dllexport) int function80767(int i) { return i + 80767; }
+__declspec(dllexport) int function80768(int i) { return i + 80768; }
+__declspec(dllexport) int function80769(int i) { return i + 80769; }
+__declspec(dllexport) int function80770(int i) { return i + 80770; }
+__declspec(dllexport) int function80771(int i) { return i + 80771; }
+__declspec(dllexport) int function80772(int i) { return i + 80772; }
+__declspec(dllexport) int function80773(int i) { return i + 80773; }
+__declspec(dllexport) int function80774(int i) { return i + 80774; }
+__declspec(dllexport) int function80775(int i) { return i + 80775; }
+__declspec(dllexport) int function80776(int i) { return i + 80776; }
+__declspec(dllexport) int function80777(int i) { return i + 80777; }
+__declspec(dllexport) int function80778(int i) { return i + 80778; }
+__declspec(dllexport) int function80779(int i) { return i + 80779; }
+__declspec(dllexport) int function80780(int i) { return i + 80780; }
+__declspec(dllexport) int function80781(int i) { return i + 80781; }
+__declspec(dllexport) int function80782(int i) { return i + 80782; }
+__declspec(dllexport) int function80783(int i) { return i + 80783; }
+__declspec(dllexport) int function80784(int i) { return i + 80784; }
+__declspec(dllexport) int function80785(int i) { return i + 80785; }
+__declspec(dllexport) int function80786(int i) { return i + 80786; }
+__declspec(dllexport) int function80787(int i) { return i + 80787; }
+__declspec(dllexport) int function80788(int i) { return i + 80788; }
+__declspec(dllexport) int function80789(int i) { return i + 80789; }
+__declspec(dllexport) int function80790(int i) { return i + 80790; }
+__declspec(dllexport) int function80791(int i) { return i + 80791; }
+__declspec(dllexport) int function80792(int i) { return i + 80792; }
+__declspec(dllexport) int function80793(int i) { return i + 80793; }
+__declspec(dllexport) int function80794(int i) { return i + 80794; }
+__declspec(dllexport) int function80795(int i) { return i + 80795; }
+__declspec(dllexport) int function80796(int i) { return i + 80796; }
+__declspec(dllexport) int function80797(int i) { return i + 80797; }
+__declspec(dllexport) int function80798(int i) { return i + 80798; }
+__declspec(dllexport) int function80799(int i) { return i + 80799; }
+__declspec(dllexport) int function80800(int i) { return i + 80800; }
+__declspec(dllexport) int function80801(int i) { return i + 80801; }
+__declspec(dllexport) int function80802(int i) { return i + 80802; }
+__declspec(dllexport) int function80803(int i) { return i + 80803; }
+__declspec(dllexport) int function80804(int i) { return i + 80804; }
+__declspec(dllexport) int function80805(int i) { return i + 80805; }
+__declspec(dllexport) int function80806(int i) { return i + 80806; }
+__declspec(dllexport) int function80807(int i) { return i + 80807; }
+__declspec(dllexport) int function80808(int i) { return i + 80808; }
+__declspec(dllexport) int function80809(int i) { return i + 80809; }
+__declspec(dllexport) int function80810(int i) { return i + 80810; }
+__declspec(dllexport) int function80811(int i) { return i + 80811; }
+__declspec(dllexport) int function80812(int i) { return i + 80812; }
+__declspec(dllexport) int function80813(int i) { return i + 80813; }
+__declspec(dllexport) int function80814(int i) { return i + 80814; }
+__declspec(dllexport) int function80815(int i) { return i + 80815; }
+__declspec(dllexport) int function80816(int i) { return i + 80816; }
+__declspec(dllexport) int function80817(int i) { return i + 80817; }
+__declspec(dllexport) int function80818(int i) { return i + 80818; }
+__declspec(dllexport) int function80819(int i) { return i + 80819; }
+__declspec(dllexport) int function80820(int i) { return i + 80820; }
+__declspec(dllexport) int function80821(int i) { return i + 80821; }
+__declspec(dllexport) int function80822(int i) { return i + 80822; }
+__declspec(dllexport) int function80823(int i) { return i + 80823; }
+__declspec(dllexport) int function80824(int i) { return i + 80824; }
+__declspec(dllexport) int function80825(int i) { return i + 80825; }
+__declspec(dllexport) int function80826(int i) { return i + 80826; }
+__declspec(dllexport) int function80827(int i) { return i + 80827; }
+__declspec(dllexport) int function80828(int i) { return i + 80828; }
+__declspec(dllexport) int function80829(int i) { return i + 80829; }
+__declspec(dllexport) int function80830(int i) { return i + 80830; }
+__declspec(dllexport) int function80831(int i) { return i + 80831; }
+__declspec(dllexport) int function80832(int i) { return i + 80832; }
+__declspec(dllexport) int function80833(int i) { return i + 80833; }
+__declspec(dllexport) int function80834(int i) { return i + 80834; }
+__declspec(dllexport) int function80835(int i) { return i + 80835; }
+__declspec(dllexport) int function80836(int i) { return i + 80836; }
+__declspec(dllexport) int function80837(int i) { return i + 80837; }
+__declspec(dllexport) int function80838(int i) { return i + 80838; }
+__declspec(dllexport) int function80839(int i) { return i + 80839; }
+__declspec(dllexport) int function80840(int i) { return i + 80840; }
+__declspec(dllexport) int function80841(int i) { return i + 80841; }
+__declspec(dllexport) int function80842(int i) { return i + 80842; }
+__declspec(dllexport) int function80843(int i) { return i + 80843; }
+__declspec(dllexport) int function80844(int i) { return i + 80844; }
+__declspec(dllexport) int function80845(int i) { return i + 80845; }
+__declspec(dllexport) int function80846(int i) { return i + 80846; }
+__declspec(dllexport) int function80847(int i) { return i + 80847; }
+__declspec(dllexport) int function80848(int i) { return i + 80848; }
+__declspec(dllexport) int function80849(int i) { return i + 80849; }
+__declspec(dllexport) int function80850(int i) { return i + 80850; }
+__declspec(dllexport) int function80851(int i) { return i + 80851; }
+__declspec(dllexport) int function80852(int i) { return i + 80852; }
+__declspec(dllexport) int function80853(int i) { return i + 80853; }
+__declspec(dllexport) int function80854(int i) { return i + 80854; }
+__declspec(dllexport) int function80855(int i) { return i + 80855; }
+__declspec(dllexport) int function80856(int i) { return i + 80856; }
+__declspec(dllexport) int function80857(int i) { return i + 80857; }
+__declspec(dllexport) int function80858(int i) { return i + 80858; }
+__declspec(dllexport) int function80859(int i) { return i + 80859; }
+__declspec(dllexport) int function80860(int i) { return i + 80860; }
+__declspec(dllexport) int function80861(int i) { return i + 80861; }
+__declspec(dllexport) int function80862(int i) { return i + 80862; }
+__declspec(dllexport) int function80863(int i) { return i + 80863; }
+__declspec(dllexport) int function80864(int i) { return i + 80864; }
+__declspec(dllexport) int function80865(int i) { return i + 80865; }
+__declspec(dllexport) int function80866(int i) { return i + 80866; }
+__declspec(dllexport) int function80867(int i) { return i + 80867; }
+__declspec(dllexport) int function80868(int i) { return i + 80868; }
+__declspec(dllexport) int function80869(int i) { return i + 80869; }
+__declspec(dllexport) int function80870(int i) { return i + 80870; }
+__declspec(dllexport) int function80871(int i) { return i + 80871; }
+__declspec(dllexport) int function80872(int i) { return i + 80872; }
+__declspec(dllexport) int function80873(int i) { return i + 80873; }
+__declspec(dllexport) int function80874(int i) { return i + 80874; }
+__declspec(dllexport) int function80875(int i) { return i + 80875; }
+__declspec(dllexport) int function80876(int i) { return i + 80876; }
+__declspec(dllexport) int function80877(int i) { return i + 80877; }
+__declspec(dllexport) int function80878(int i) { return i + 80878; }
+__declspec(dllexport) int function80879(int i) { return i + 80879; }
+__declspec(dllexport) int function80880(int i) { return i + 80880; }
+__declspec(dllexport) int function80881(int i) { return i + 80881; }
+__declspec(dllexport) int function80882(int i) { return i + 80882; }
+__declspec(dllexport) int function80883(int i) { return i + 80883; }
+__declspec(dllexport) int function80884(int i) { return i + 80884; }
+__declspec(dllexport) int function80885(int i) { return i + 80885; }
+__declspec(dllexport) int function80886(int i) { return i + 80886; }
+__declspec(dllexport) int function80887(int i) { return i + 80887; }
+__declspec(dllexport) int function80888(int i) { return i + 80888; }
+__declspec(dllexport) int function80889(int i) { return i + 80889; }
+__declspec(dllexport) int function80890(int i) { return i + 80890; }
+__declspec(dllexport) int function80891(int i) { return i + 80891; }
+__declspec(dllexport) int function80892(int i) { return i + 80892; }
+__declspec(dllexport) int function80893(int i) { return i + 80893; }
+__declspec(dllexport) int function80894(int i) { return i + 80894; }
+__declspec(dllexport) int function80895(int i) { return i + 80895; }
+__declspec(dllexport) int function80896(int i) { return i + 80896; }
+__declspec(dllexport) int function80897(int i) { return i + 80897; }
+__declspec(dllexport) int function80898(int i) { return i + 80898; }
+__declspec(dllexport) int function80899(int i) { return i + 80899; }
+__declspec(dllexport) int function80900(int i) { return i + 80900; }
+__declspec(dllexport) int function80901(int i) { return i + 80901; }
+__declspec(dllexport) int function80902(int i) { return i + 80902; }
+__declspec(dllexport) int function80903(int i) { return i + 80903; }
+__declspec(dllexport) int function80904(int i) { return i + 80904; }
+__declspec(dllexport) int function80905(int i) { return i + 80905; }
+__declspec(dllexport) int function80906(int i) { return i + 80906; }
+__declspec(dllexport) int function80907(int i) { return i + 80907; }
+__declspec(dllexport) int function80908(int i) { return i + 80908; }
+__declspec(dllexport) int function80909(int i) { return i + 80909; }
+__declspec(dllexport) int function80910(int i) { return i + 80910; }
+__declspec(dllexport) int function80911(int i) { return i + 80911; }
+__declspec(dllexport) int function80912(int i) { return i + 80912; }
+__declspec(dllexport) int function80913(int i) { return i + 80913; }
+__declspec(dllexport) int function80914(int i) { return i + 80914; }
+__declspec(dllexport) int function80915(int i) { return i + 80915; }
+__declspec(dllexport) int function80916(int i) { return i + 80916; }
+__declspec(dllexport) int function80917(int i) { return i + 80917; }
+__declspec(dllexport) int function80918(int i) { return i + 80918; }
+__declspec(dllexport) int function80919(int i) { return i + 80919; }
+__declspec(dllexport) int function80920(int i) { return i + 80920; }
+__declspec(dllexport) int function80921(int i) { return i + 80921; }
+__declspec(dllexport) int function80922(int i) { return i + 80922; }
+__declspec(dllexport) int function80923(int i) { return i + 80923; }
+__declspec(dllexport) int function80924(int i) { return i + 80924; }
+__declspec(dllexport) int function80925(int i) { return i + 80925; }
+__declspec(dllexport) int function80926(int i) { return i + 80926; }
+__declspec(dllexport) int function80927(int i) { return i + 80927; }
+__declspec(dllexport) int function80928(int i) { return i + 80928; }
+__declspec(dllexport) int function80929(int i) { return i + 80929; }
+__declspec(dllexport) int function80930(int i) { return i + 80930; }
+__declspec(dllexport) int function80931(int i) { return i + 80931; }
+__declspec(dllexport) int function80932(int i) { return i + 80932; }
+__declspec(dllexport) int function80933(int i) { return i + 80933; }
+__declspec(dllexport) int function80934(int i) { return i + 80934; }
+__declspec(dllexport) int function80935(int i) { return i + 80935; }
+__declspec(dllexport) int function80936(int i) { return i + 80936; }
+__declspec(dllexport) int function80937(int i) { return i + 80937; }
+__declspec(dllexport) int function80938(int i) { return i + 80938; }
+__declspec(dllexport) int function80939(int i) { return i + 80939; }
+__declspec(dllexport) int function80940(int i) { return i + 80940; }
+__declspec(dllexport) int function80941(int i) { return i + 80941; }
+__declspec(dllexport) int function80942(int i) { return i + 80942; }
+__declspec(dllexport) int function80943(int i) { return i + 80943; }
+__declspec(dllexport) int function80944(int i) { return i + 80944; }
+__declspec(dllexport) int function80945(int i) { return i + 80945; }
+__declspec(dllexport) int function80946(int i) { return i + 80946; }
+__declspec(dllexport) int function80947(int i) { return i + 80947; }
+__declspec(dllexport) int function80948(int i) { return i + 80948; }
+__declspec(dllexport) int function80949(int i) { return i + 80949; }
+__declspec(dllexport) int function80950(int i) { return i + 80950; }
+__declspec(dllexport) int function80951(int i) { return i + 80951; }
+__declspec(dllexport) int function80952(int i) { return i + 80952; }
+__declspec(dllexport) int function80953(int i) { return i + 80953; }
+__declspec(dllexport) int function80954(int i) { return i + 80954; }
+__declspec(dllexport) int function80955(int i) { return i + 80955; }
+__declspec(dllexport) int function80956(int i) { return i + 80956; }
+__declspec(dllexport) int function80957(int i) { return i + 80957; }
+__declspec(dllexport) int function80958(int i) { return i + 80958; }
+__declspec(dllexport) int function80959(int i) { return i + 80959; }
+__declspec(dllexport) int function80960(int i) { return i + 80960; }
+__declspec(dllexport) int function80961(int i) { return i + 80961; }
+__declspec(dllexport) int function80962(int i) { return i + 80962; }
+__declspec(dllexport) int function80963(int i) { return i + 80963; }
+__declspec(dllexport) int function80964(int i) { return i + 80964; }
+__declspec(dllexport) int function80965(int i) { return i + 80965; }
+__declspec(dllexport) int function80966(int i) { return i + 80966; }
+__declspec(dllexport) int function80967(int i) { return i + 80967; }
+__declspec(dllexport) int function80968(int i) { return i + 80968; }
+__declspec(dllexport) int function80969(int i) { return i + 80969; }
+__declspec(dllexport) int function80970(int i) { return i + 80970; }
+__declspec(dllexport) int function80971(int i) { return i + 80971; }
+__declspec(dllexport) int function80972(int i) { return i + 80972; }
+__declspec(dllexport) int function80973(int i) { return i + 80973; }
+__declspec(dllexport) int function80974(int i) { return i + 80974; }
+__declspec(dllexport) int function80975(int i) { return i + 80975; }
+__declspec(dllexport) int function80976(int i) { return i + 80976; }
+__declspec(dllexport) int function80977(int i) { return i + 80977; }
+__declspec(dllexport) int function80978(int i) { return i + 80978; }
+__declspec(dllexport) int function80979(int i) { return i + 80979; }
+__declspec(dllexport) int function80980(int i) { return i + 80980; }
+__declspec(dllexport) int function80981(int i) { return i + 80981; }
+__declspec(dllexport) int function80982(int i) { return i + 80982; }
+__declspec(dllexport) int function80983(int i) { return i + 80983; }
+__declspec(dllexport) int function80984(int i) { return i + 80984; }
+__declspec(dllexport) int function80985(int i) { return i + 80985; }
+__declspec(dllexport) int function80986(int i) { return i + 80986; }
+__declspec(dllexport) int function80987(int i) { return i + 80987; }
+__declspec(dllexport) int function80988(int i) { return i + 80988; }
+__declspec(dllexport) int function80989(int i) { return i + 80989; }
+__declspec(dllexport) int function80990(int i) { return i + 80990; }
+__declspec(dllexport) int function80991(int i) { return i + 80991; }
+__declspec(dllexport) int function80992(int i) { return i + 80992; }
+__declspec(dllexport) int function80993(int i) { return i + 80993; }
+__declspec(dllexport) int function80994(int i) { return i + 80994; }
+__declspec(dllexport) int function80995(int i) { return i + 80995; }
+__declspec(dllexport) int function80996(int i) { return i + 80996; }
+__declspec(dllexport) int function80997(int i) { return i + 80997; }
+__declspec(dllexport) int function80998(int i) { return i + 80998; }
+__declspec(dllexport) int function80999(int i) { return i + 80999; }
